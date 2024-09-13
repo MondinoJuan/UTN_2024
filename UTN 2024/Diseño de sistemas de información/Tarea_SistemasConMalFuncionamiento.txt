@@ -1,0 +1,32 @@
+La aplicacion del banco BBVA:
+- No siempre funciona, regularmente esta en mantenimiento.
+- Requiere de varios codigos de seguridad para realizar diferentes acciones: contraseña, clave token o confirmacion de otro tipo. A diferencia de los bancos virtuales.
+- Para generar la clave token uno tiene que ir personalmente hasta un cajero de banco para poder generar otra clave y con esa recien activar la clave token de la app.
+
+
+La aplicacion de osde:
+- cuando uno quiere ver la credencial (generalmente en un consultorio donde no tiene wifi) te pide ingresar a la cuenta y no queda guardado el ingreso.
+
+La aplicacion / bot de whatsapp de la municipalidad de san nicolas:
+- solamente se puede edir turno por esa app o el bot de whatsapp y la gente mayor tiene complicaciones para usarlo.
+- No estan todos los tramites que se pueden requerir hacer en la municipalidad, por lo que genera confusion a la hora de elegir un tipo de tramite para pedir turno.
+
+La pagina de los colectivos de la linea A:
+- no siempre te dice correctamente el tiempo faltante para que un colectivo pase por tal parada.
+
+La app de cuenta DNI:
+- Las transferencias a veces tardan 72hs en realizarse.
+
+Servicio de atencion al cliente de personal:
+- La seguridad no es buena porque me filtraron los datos de mi cuenta y un desconocido empezó a comprar cosas a mi nombre.
+- Te cortan el servicio por más que ya hayas hecho un reclamo.
+- Tardan más de 3 meses en restaurarte el servicio.
+- Los llamas, te tienen esperando y no te pueden dar solución remotamente mas que hacerte reiniciar el celular para que te cambie de antena.
+- Tenés que hacer los reclamos en persona en un local (que no tiene horarios cómodos para una persona que trabaja).
+
+App de Tuenti:
+- No tiene opción de reclamos.
+- Es lenta.
+- No brinda la opción de comunicarte con una persona, no bot, para que te exlpique la solución al problema.
+- Hasta hace poco no te mostraba los combos ni sus precios para saber cuanta plata abonar.
+

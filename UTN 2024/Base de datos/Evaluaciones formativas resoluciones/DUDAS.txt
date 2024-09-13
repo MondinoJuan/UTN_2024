@@ -1,0 +1,3 @@
+DUDAS
+- Cuando se hace el modelo relacional, ¿cómo se cuantos atributos van entre paréntesis en cada tabla?
+- Las keys dependientes, ¿van en la tabla?¿Serían una clave foránea pero no principal?

@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {  /*referencia a todos los containers*/
+    display: flex;
+    height: 100vh;
+    flex-direction: row;
+}
+
+.container-left {  
+    width: 20%;
+    background-color: lightblue;
+    padding: 1rem;
+}
+
+.container-right {  
+    width: 100%;
+    background-color: white;
+    padding: 1rem;
+    border-left-style: solid;
+    border-left-color: black;
+    border-left-width: 2px;
+}
+
+/*
+#container {  referencia a todo lo que tenga in id que se llame container
+
+}*/
+
+.menu-item {
+    display: block;
+    margin-bottom: 1rem;
+    background-color: aqua;
+    border: 1px solid;
+    text-align: center;
+}
+
+.crsn-img {
+    width: 30%;
+    height: 40%;
+}
+
+.titulo {
+    width: 80%;
+    height: 90%;
+}
+
+.texto {
+    width: 60%;
+    height: 60%;
+}
+
+/*Bio*/
+.img-bio {
+    display: block;
+    margin: 0 auto;
+    width: 40%;
+    height: 50%;
+}
+
+.text-bio {
+    text-align: justify;
+    font-style: italic;
+    line-height: 1.5;
+}
+
+/*Contacto*/
+h2 {
+    margin-top: 0;
+}
+
+.form-control {
+    display: block;
+    margin: 0.5rem 0;
+}
+
+.form-button {
+    display: block;
+}
+
+.error {
+    color: red;
+    display: none;
+}
+
+.show-error {
+    display: block;
+}

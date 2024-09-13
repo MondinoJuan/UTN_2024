@@ -1,0 +1,2 @@
+#Embarcaciones con pocas salidas. 
+Listar las embarcaciones de empresas (el tipo de documento del propietario debe ser cuit) que tengan menos de 4 salidas durante el 2024. Indicar el número y nombre del propietario; el hin, nombre y descripción de la embarcación; la cantidad de salidas durante 2024 (si no tuvo salidas en 2024 debe indicarse 0), y la fecha de su última salida (si no tuvo salidas debe indicar 'sin salidas registradas'). Ordenar por fecha de ultima salida descendente.

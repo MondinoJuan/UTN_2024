@@ -1,0 +1,5 @@
+Carpetas a borrar:
+	- Bin 
+	- Obj
+Archivos a borrar:
+	- .suo

@@ -1,0 +1,14 @@
+C:\Users\juanc\OneDrive\Escritorio\Tecnologías de desarrollo de software IDE\Net\Unidad02\Lab01\Desicion\bin\Debug\Desicion.exe.config
+C:\Users\juanc\OneDrive\Escritorio\Tecnologías de desarrollo de software IDE\Net\Unidad02\Lab01\Desicion\bin\Debug\Desicion.exe
+C:\Users\juanc\OneDrive\Escritorio\Tecnologías de desarrollo de software IDE\Net\Unidad02\Lab01\Desicion\bin\Debug\Desicion.pdb
+C:\Users\juanc\OneDrive\Escritorio\Tecnologías de desarrollo de software IDE\Net\Unidad02\Lab01\Desicion\obj\Debug\Desicion.csproj.AssemblyReference.cache
+C:\Users\juanc\OneDrive\Escritorio\Tecnologías de desarrollo de software IDE\Net\Unidad02\Lab01\Desicion\obj\Debug\Desicion.csproj.CoreCompileInputs.cache
+C:\Users\juanc\OneDrive\Escritorio\Tecnologías de desarrollo de software IDE\Net\Unidad02\Lab01\Desicion\obj\Debug\Desicion.exe
+C:\Users\juanc\OneDrive\Escritorio\Tecnologías de desarrollo de software IDE\Net\Unidad02\Lab01\Desicion\obj\Debug\Desicion.pdb
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01\Desicion\bin\Debug\Desicion.exe.config
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01\Desicion\bin\Debug\Desicion.exe
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01\Desicion\bin\Debug\Desicion.pdb
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01\Desicion\obj\Debug\Desicion.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01\Desicion\obj\Debug\Desicion.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01\Desicion\obj\Debug\Desicion.exe
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01\Desicion\obj\Debug\Desicion.pdb

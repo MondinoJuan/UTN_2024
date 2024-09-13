@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01.ParaPensar\Proyecto09\obj\Debug\Proyecto09.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01.ParaPensar\Proyecto09\obj\Debug\Proyecto09.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01.ParaPensar\Proyecto09\bin\Debug\Proyecto09.exe.config
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01.ParaPensar\Proyecto09\bin\Debug\Proyecto09.exe
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01.ParaPensar\Proyecto09\bin\Debug\Proyecto09.pdb
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01.ParaPensar\Proyecto09\obj\Debug\Proyecto09.exe
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01.ParaPensar\Proyecto09\obj\Debug\Proyecto09.pdb

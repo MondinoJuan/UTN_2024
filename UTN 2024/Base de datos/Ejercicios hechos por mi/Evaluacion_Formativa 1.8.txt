@@ -1,0 +1,3 @@
+- Difiere en que se implementó una agregación por ejemplo, porque el historial de precios ahora depende del proveedor y del producto al mismo tiempo, pero no aparece al mismo tiempo que la relación vende entre proveedor y producto.
+- Ahora diferentes Proveedores venden los diferentes Productos, antes era un proveedor por producto. Por eso se diferenció que uno o muchos Proveedores pueden vender 0 o muchos Productos, pero a la hora de realizar un pedido de varios Productos se hace a un solo proveedor (por eso la relación ternaria).
+- Se implementó el uso de la superclase Personas porque Proveedores y Clientes comparten varios atributos.

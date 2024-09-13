@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Parcial 2\\Unidad 4\\Laboratorio 4 (Archivos ADO.NET con MySQL)\\Laboratorio 4 - U4\\Lab04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90E76AC9-1640-45CC-86D5-7293B1B854F0}|Lab04\\Lab04.csproj|c:\\users\\pc\\desktop\\utn 2024\\tecnolog\u00EDas de desarrollo de software ide\\parcial 2\\unidad 4\\laboratorio 4 (archivos ado.net con mysql)\\laboratorio 4 - u4\\lab04\\lab04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E76AC9-1640-45CC-86D5-7293B1B854F0}|Lab04\\Lab04.csproj|solutionrelative:lab04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Parcial 2\\Unidad 4\\Laboratorio 4 (Archivos ADO.NET con MySQL)\\Laboratorio 4 - U4\\Lab04\\Lab04\\Program.cs",
+              "RelativeDocumentMoniker": "Lab04\\Program.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Parcial 2\\Unidad 4\\Laboratorio 4 (Archivos ADO.NET con MySQL)\\Laboratorio 4 - U4\\Lab04\\Lab04\\Program.cs",
+              "RelativeToolTip": "Lab04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:02:35.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

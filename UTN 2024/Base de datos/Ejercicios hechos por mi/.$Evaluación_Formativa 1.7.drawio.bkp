@@ -1,0 +1,85 @@
+<mxfile host="Electron" modified="2024-05-15T22:56:39.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="qBlch-RuAvQK6q5VPS6i" version="24.4.0" type="device">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="819" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zeCGVEgLoGjsiGJo9kNx-1" value="Pacientes" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="410" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCGVEgLoGjsiGJo9kNx-2" value="&lt;div&gt;&lt;u&gt;nroHC&lt;/u&gt;&lt;/div&gt;nombre&lt;div&gt;apellido&lt;/div&gt;&lt;div&gt;direccion&lt;/div&gt;&lt;div&gt;tel&lt;/div&gt;&lt;div&gt;dni&lt;/div&gt;&lt;div&gt;fechaNac&lt;/div&gt;&lt;div&gt;causa&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="20" y="367.5" width="160" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCGVEgLoGjsiGJo9kNx-3" value="TarjetasGuardia" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCGVEgLoGjsiGJo9kNx-4" value="&lt;u&gt;cod&lt;/u&gt;&lt;div&gt;fecha&lt;/div&gt;&lt;div&gt;hora&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCGVEgLoGjsiGJo9kNx-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.08;entryY=0.23;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zeCGVEgLoGjsiGJo9kNx-1" target="zeCGVEgLoGjsiGJo9kNx-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="450" as="sourcePoint" />
+            <mxPoint x="370" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zeCGVEgLoGjsiGJo9kNx-7" value="D" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCGVEgLoGjsiGJo9kNx-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.04;entryY=0.71;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zeCGVEgLoGjsiGJo9kNx-1" target="zeCGVEgLoGjsiGJo9kNx-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="440" as="sourcePoint" />
+            <mxPoint x="380" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zeCGVEgLoGjsiGJo9kNx-9" value="tipo = &quot;consulta&quot;" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zeCGVEgLoGjsiGJo9kNx-7" target="zeCGVEgLoGjsiGJo9kNx-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="482" as="sourcePoint" />
+            <mxPoint x="530" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zeCGVEgLoGjsiGJo9kNx-10" value="tipo = &quot;accidente&quot;" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zeCGVEgLoGjsiGJo9kNx-7" target="zeCGVEgLoGjsiGJo9kNx-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424" y="454" as="sourcePoint" />
+            <mxPoint x="510" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zeCGVEgLoGjsiGJo9kNx-11" value="PacientesA" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCGVEgLoGjsiGJo9kNx-12" value="PacientesC" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="530" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCGVEgLoGjsiGJo9kNx-13" value="tipoIngreso&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;nombreAcom&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;apellidoAcom&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="630" y="471.5" width="110" height="53.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCGVEgLoGjsiGJo9kNx-14" value="TiposAccidente" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="490" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCGVEgLoGjsiGJo9kNx-15" value="fecha&lt;div&gt;hora&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="620" y="358.5" width="60" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCGVEgLoGjsiGJo9kNx-16" value="Motivos" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="530" y="570" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCGVEgLoGjsiGJo9kNx-17" value="&lt;u&gt;cod&lt;/u&gt;&lt;div&gt;desc&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="630" y="573.25" width="60" height="36.75" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCGVEgLoGjsiGJo9kNx-18" value="&lt;u&gt;cod&lt;/u&gt;&lt;div&gt;desc&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="590" y="263.25" width="60" height="36.75" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCGVEgLoGjsiGJo9kNx-19" value="Lugares" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="710" y="261.63" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCGVEgLoGjsiGJo9kNx-20" value="&lt;u&gt;nro&lt;/u&gt;&lt;div&gt;calle&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="680" y="226.5" width="60" height="36.75" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCGVEgLoGjsiGJo9kNx-21" value="Localidades" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="700" y="105.13" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCGVEgLoGjsiGJo9kNx-22" value="&lt;div&gt;&lt;u&gt;codPostal&lt;/u&gt;&lt;/div&gt;&lt;div&gt;nombre&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="660" y="60" width="70" height="46.75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

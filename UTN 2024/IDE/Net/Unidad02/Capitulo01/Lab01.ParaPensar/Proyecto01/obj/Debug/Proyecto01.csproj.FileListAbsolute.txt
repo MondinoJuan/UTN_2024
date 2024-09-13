@@ -1,0 +1,7 @@
+C:\Users\juanc\OneDrive\Escritorio\Tecnologías de desarrollo de software IDE\Net\Unidad02\Lab01.ParaPensar\Proyecto01\obj\Debug\Proyecto01.csproj.AssemblyReference.cache
+C:\Users\juanc\OneDrive\Escritorio\Tecnologías de desarrollo de software IDE\Net\Unidad02\Lab01.ParaPensar\Proyecto01\obj\Debug\Proyecto01.csproj.CoreCompileInputs.cache
+C:\Users\juanc\OneDrive\Escritorio\Tecnologías de desarrollo de software IDE\Net\Unidad02\Lab01.ParaPensar\Proyecto01\bin\Debug\Proyecto01.exe.config
+C:\Users\juanc\OneDrive\Escritorio\Tecnologías de desarrollo de software IDE\Net\Unidad02\Lab01.ParaPensar\Proyecto01\bin\Debug\Proyecto01.exe
+C:\Users\juanc\OneDrive\Escritorio\Tecnologías de desarrollo de software IDE\Net\Unidad02\Lab01.ParaPensar\Proyecto01\bin\Debug\Proyecto01.pdb
+C:\Users\juanc\OneDrive\Escritorio\Tecnologías de desarrollo de software IDE\Net\Unidad02\Lab01.ParaPensar\Proyecto01\obj\Debug\Proyecto01.exe
+C:\Users\juanc\OneDrive\Escritorio\Tecnologías de desarrollo de software IDE\Net\Unidad02\Lab01.ParaPensar\Proyecto01\obj\Debug\Proyecto01.pdb

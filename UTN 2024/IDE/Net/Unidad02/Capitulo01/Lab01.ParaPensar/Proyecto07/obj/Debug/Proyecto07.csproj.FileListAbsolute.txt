@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01.ParaPensar\Proyecto07\bin\Debug\Proyecto07.exe.config
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01.ParaPensar\Proyecto07\bin\Debug\Proyecto07.exe
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01.ParaPensar\Proyecto07\bin\Debug\Proyecto07.pdb
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01.ParaPensar\Proyecto07\obj\Debug\Proyecto07.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01.ParaPensar\Proyecto07\obj\Debug\Proyecto07.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01.ParaPensar\Proyecto07\obj\Debug\Proyecto07.exe
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01.ParaPensar\Proyecto07\obj\Debug\Proyecto07.pdb

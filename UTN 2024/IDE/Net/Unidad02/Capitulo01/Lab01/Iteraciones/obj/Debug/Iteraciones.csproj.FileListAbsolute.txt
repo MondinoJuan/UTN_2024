@@ -1,0 +1,14 @@
+C:\Users\juanc\OneDrive\Escritorio\Tecnologías de desarrollo de software IDE\Net\Unidad02\Lab01\Iteraciones\bin\Debug\Iteraciones.exe.config
+C:\Users\juanc\OneDrive\Escritorio\Tecnologías de desarrollo de software IDE\Net\Unidad02\Lab01\Iteraciones\bin\Debug\Iteraciones.exe
+C:\Users\juanc\OneDrive\Escritorio\Tecnologías de desarrollo de software IDE\Net\Unidad02\Lab01\Iteraciones\bin\Debug\Iteraciones.pdb
+C:\Users\juanc\OneDrive\Escritorio\Tecnologías de desarrollo de software IDE\Net\Unidad02\Lab01\Iteraciones\obj\Debug\Iteraciones.csproj.AssemblyReference.cache
+C:\Users\juanc\OneDrive\Escritorio\Tecnologías de desarrollo de software IDE\Net\Unidad02\Lab01\Iteraciones\obj\Debug\Iteraciones.csproj.CoreCompileInputs.cache
+C:\Users\juanc\OneDrive\Escritorio\Tecnologías de desarrollo de software IDE\Net\Unidad02\Lab01\Iteraciones\obj\Debug\Iteraciones.exe
+C:\Users\juanc\OneDrive\Escritorio\Tecnologías de desarrollo de software IDE\Net\Unidad02\Lab01\Iteraciones\obj\Debug\Iteraciones.pdb
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01\Iteraciones\bin\Debug\Iteraciones.exe.config
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01\Iteraciones\bin\Debug\Iteraciones.exe
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01\Iteraciones\bin\Debug\Iteraciones.pdb
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01\Iteraciones\obj\Debug\Iteraciones.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01\Iteraciones\obj\Debug\Iteraciones.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01\Iteraciones\obj\Debug\Iteraciones.exe
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Net\Unidad02\Capitulo01\Lab01\Iteraciones\obj\Debug\Iteraciones.pdb

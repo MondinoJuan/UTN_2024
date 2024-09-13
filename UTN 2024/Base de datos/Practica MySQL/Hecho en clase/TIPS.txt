@@ -1,0 +1,3 @@
+NO poner condiciones del having en el where.
+NO poner la condiciones de where en el having.
+Las condiciones de grupo se ponen en el having.

@@ -1,0 +1,10 @@
+Presentación DSI:
+- Forgiving format permite al usuario ingresar texto de más de un formato sin que el usuario indique cual es, y la misma pagina o aplicación lo identifica.
+- Elección de un control, su elección se basa principalmente en las experiencias previas de un usuario. Por ejemplo, un usuario al observar un cuadro de texto, puede pensar que puede ser completado por cualquier carácter alfanumérico, por ello es que se utilizan otros elementos para guiar al usuario en cómo ingresar tal dato.
+- Input hints e input prompts son pistas que se le muestran al usuario para que pueda completar un campo.
+- Structured format ya le indica al usuario en qué estructura debe ingresar el dato requerido. Lo hace mediante un conjunto de cajas de texto.
+
+- Diferencias:
+	3- La aplicación se diferencia con la web en que, al abrir el menú hamburguesa, en la aplicación móvil se encuentran todos los datos de facturación, atención al cliente o datos del usuario. En cambio, en la web además se muestra un listado de las categorías de los locales en los que se pueden comprar productos.
+	4- En la página web, al clickear el símbolo del carrito se abre una pantalla slide que muestra un listado 
+de los productos agregados a éste. Por otro lado, en la aplicación, al haber menos espacio de pantalla, al tocar el símbolo de cesta (que se encuentra en el mismo lugar que el carrito en la web y cumple la misma función) se redirige al usuario a una nueva pantalla donde ahora sí muestra el listado de productos agregados.

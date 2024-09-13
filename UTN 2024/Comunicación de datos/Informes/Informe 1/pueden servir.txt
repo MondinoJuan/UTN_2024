@@ -1,0 +1,29 @@
+ideas:
+explicar la impedancia brevemente
+eplicar las asosiaciones que determinan la categoria de par trenzado a utilizar (en wikipedia hay un cuadro)
+explicar ancho de banda y tasa de datos
+explicar señales analógicas y digitales?
+explicar alta y baja frecuencia?
+glosario? (para explicar ruido y demás conceptos)
+
+util (?:
+https://community.fs.com/es/article/fiber-optic-cable-vs-twisted-pair-cable-vs-coaxial-cable.html
+https://www.fluke.com/es-ar/informacion/blog/electrica/que-es-la-capacitancia
+-- https://blog.igus.es/knowledge-base/como-se-manifiesta-la-capacitancia-de-un-cable-de-accionamiento-en-la-practica/#:~:text=La%20capacitancia%20es%20la%20capacidad,para%20la%20transferencia%20de%20electrones.
+https://www.intel.la/content/www/xl/es/support/articles/000026190/wireless.html
+https://es.khanacademy.org/computing/ap-computer-science-principles/the-internet/x2d2f703b37b450a3:connecting-networks/a/bit-rate-bandwidth-and-latency
+https://es.wikipedia.org/wiki/Velocidad_de_conexi%C3%B3n#:~:text=La%20velocidad%20de%20conexi%C3%B3n%20es,el%20que%20se%20est%C3%A9%20estudiando.
+https://es.wikipedia.org/wiki/Reactancia#:~:text=En%20electr%C3%B3nica%20y%20electrotecnia%20se,su%20s%C3%ADmbolo%20es%20%CE%A9%E2%80%8B.
+
+bibliografia
+https://community.fs.com/es/article/utp-or-stp-cables-for-10gbase-t-network.html
+https://www.telecocable.com/blog/diferencias-entre-cable-utp-stp-y-ftp/1374
+https://es.wikipedia.org/wiki/Cable_de_par_trenzado
+https://www.profesionalreview.com/2020/09/12/cable-par-trenzado-caracteristicas/
+https://www.ugr.es/~jhuertas/EvaluacionFisiologica/Impedancia/impintro.htm#:~:text=La%20impedancia%20es%20la%20oposici%C3%B3n,conducci%C3%B3n%20i%C3%B3nica%20en%20el%20organismo.
+https://www.inet.edu.ar/wp-content/uploads/2020/07/ELECTRONICA_Gu--a06-Impedancia.pdf
+https://www.proto-electronics.com/es/blog/control-de-impedancia-sobre-lospcb-que-utilidad-tiene#:~:text=La%20impedancia%20mide%20la%20oposici%C3%B3n,en%20Ohms%2C%20como%20la%20resistencia.
+https://www.hioki.com/us-es/learning/how-to/u-impedance-meters.html#:~:text=La%20impedancia%20se%20calcula%20dividiendo,medir%20la%20resistencia%20de%20CC.
+https://blog.igus.es/knowledge-base/como-se-manifiesta-la-capacitancia-de-un-cable-de-accionamiento-en-la-practica/#:~:text=La%20capacitancia%20es%20la%20capacidad,para%20la%20transferencia%20de%20electrones.
+https://esero.es/practicas-en-abierto/decodifica-imagenes-iss/longitud_de_onda_y_frecuencia.html#:~:text=La%20frecuencia%20(f)%20es%20la,10%20hercios%20o%2010%20Hz.
+https://ww2.movistar.cl/blog/post/que-es-la-latencia/#:~:text=La%20latencia%20es%20el%20tiempo,en%20llegar%20la%20respuesta%20solicitada.

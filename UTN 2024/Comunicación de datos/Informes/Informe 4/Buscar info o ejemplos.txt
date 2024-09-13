@@ -1,0 +1,10 @@
+- https://la.mathworks.com/discovery/queuing-theory.html
+- https://www.estadistica.net/INVESTIGACION/TEORIA-COLAS.pdf
+- https://fastercapital.com/es/tema/%C2%BFqu%C3%A9-es-la-teor%C3%ADa-de-colas-y-por-qu%C3%A9-es-importante.html
+- https://www.um.es/or/ampliacion/node3.html
+
+
+Información a buscar:
+- redes en serie
+- redes en paralelo?
+- teorema de burke?

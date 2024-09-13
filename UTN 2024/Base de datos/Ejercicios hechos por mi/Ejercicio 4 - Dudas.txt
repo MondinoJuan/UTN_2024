@@ -1,0 +1,2 @@
+1- Cuando realizo una agregación, ¿el rectángulo debe encerrar si o si los atributos de las entidades que participan en la relación?
+2- ¿Es correcto que PRODUCTOS sea una entidad débil porque su atributo identificador depende de PRODUCTOSTIPOS?

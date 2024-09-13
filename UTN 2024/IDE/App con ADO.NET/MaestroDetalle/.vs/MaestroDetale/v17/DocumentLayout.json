@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanc\\OneDrive\\Escritorio\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\App con ADO.NET\\MaestroDetalle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{318A0B5E-0C5C-4E2D-8F1B-85490AA8ADF3}|MaestroDetale\\MaestroDetale.csproj|c:\\users\\juanc\\onedrive\\escritorio\\utn 2024\\tecnolog\u00EDas de desarrollo de software ide\\app con ado.net\\maestrodetalle\\maestrodetale\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{318A0B5E-0C5C-4E2D-8F1B-85490AA8ADF3}|MaestroDetale\\MaestroDetale.csproj|solutionrelative:maestrodetale\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318A0B5E-0C5C-4E2D-8F1B-85490AA8ADF3}|MaestroDetale\\MaestroDetale.csproj|c:\\users\\juanc\\onedrive\\escritorio\\utn 2024\\tecnolog\u00EDas de desarrollo de software ide\\app con ado.net\\maestrodetalle\\maestrodetale\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318A0B5E-0C5C-4E2D-8F1B-85490AA8ADF3}|MaestroDetale\\MaestroDetale.csproj|solutionrelative:maestrodetale\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318A0B5E-0C5C-4E2D-8F1B-85490AA8ADF3}|MaestroDetale\\MaestroDetale.csproj|c:\\users\\juanc\\onedrive\\escritorio\\utn 2024\\tecnolog\u00EDas de desarrollo de software ide\\app con ado.net\\maestrodetalle\\maestrodetale\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318A0B5E-0C5C-4E2D-8F1B-85490AA8ADF3}|MaestroDetale\\MaestroDetale.csproj|solutionrelative:maestrodetale\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318A0B5E-0C5C-4E2D-8F1B-85490AA8ADF3}|MaestroDetale\\MaestroDetale.csproj|c:\\users\\juanc\\onedrive\\escritorio\\utn 2024\\tecnolog\u00EDas de desarrollo de software ide\\app con ado.net\\maestrodetalle\\maestrodetale\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{318A0B5E-0C5C-4E2D-8F1B-85490AA8ADF3}|MaestroDetale\\MaestroDetale.csproj|solutionrelative:maestrodetale\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318A0B5E-0C5C-4E2D-8F1B-85490AA8ADF3}|MaestroDetale\\MaestroDetale.csproj|c:\\users\\juanc\\onedrive\\escritorio\\utn 2024\\tecnolog\u00EDas de desarrollo de software ide\\app con ado.net\\maestrodetalle\\maestrodetale\\models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318A0B5E-0C5C-4E2D-8F1B-85490AA8ADF3}|MaestroDetale\\MaestroDetale.csproj|solutionrelative:maestrodetale\\models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\App con ADO.NET\\MaestroDetalle\\MaestroDetale\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MaestroDetale\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\App con ADO.NET\\MaestroDetalle\\MaestroDetale\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MaestroDetale\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAH8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T17:20:05.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetalleVenta.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\App con ADO.NET\\MaestroDetalle\\MaestroDetale\\Models\\DetalleVenta.cs",
+              "RelativeDocumentMoniker": "MaestroDetale\\Models\\DetalleVenta.cs",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\App con ADO.NET\\MaestroDetalle\\MaestroDetale\\Models\\DetalleVenta.cs",
+              "RelativeToolTip": "MaestroDetale\\Models\\DetalleVenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:18:50.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\App con ADO.NET\\MaestroDetalle\\MaestroDetale\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "MaestroDetale\\Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\App con ADO.NET\\MaestroDetalle\\MaestroDetale\\Models\\Venta.cs",
+              "RelativeToolTip": "MaestroDetale\\Models\\Venta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:18:27.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\App con ADO.NET\\MaestroDetalle\\MaestroDetale\\appsettings.json",
+              "RelativeDocumentMoniker": "MaestroDetale\\appsettings.json",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\App con ADO.NET\\MaestroDetalle\\MaestroDetale\\appsettings.json",
+              "RelativeToolTip": "MaestroDetale\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T16:37:15.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\App con ADO.NET\\MaestroDetalle\\MaestroDetale\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MaestroDetale\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\App con ADO.NET\\MaestroDetalle\\MaestroDetale\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MaestroDetale\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA3wC0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T02:30:08.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

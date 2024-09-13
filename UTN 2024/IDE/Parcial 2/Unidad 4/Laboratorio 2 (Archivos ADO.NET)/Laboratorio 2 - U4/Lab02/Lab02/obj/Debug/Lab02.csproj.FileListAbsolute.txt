@@ -1,0 +1,9 @@
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Parcial 2\Unidad 4\Laboratorio 2 (Archivos ADO.NET)\Laboratorio 2 - U4\Lab02\Lab02\bin\Debug\agenda.txt
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Parcial 2\Unidad 4\Laboratorio 2 (Archivos ADO.NET)\Laboratorio 2 - U4\Lab02\Lab02\bin\Debug\agenda.xml
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Parcial 2\Unidad 4\Laboratorio 2 (Archivos ADO.NET)\Laboratorio 2 - U4\Lab02\Lab02\bin\Debug\Lab02.exe.config
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Parcial 2\Unidad 4\Laboratorio 2 (Archivos ADO.NET)\Laboratorio 2 - U4\Lab02\Lab02\bin\Debug\Lab02.exe
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Parcial 2\Unidad 4\Laboratorio 2 (Archivos ADO.NET)\Laboratorio 2 - U4\Lab02\Lab02\bin\Debug\Lab02.pdb
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Parcial 2\Unidad 4\Laboratorio 2 (Archivos ADO.NET)\Laboratorio 2 - U4\Lab02\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Parcial 2\Unidad 4\Laboratorio 2 (Archivos ADO.NET)\Laboratorio 2 - U4\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Parcial 2\Unidad 4\Laboratorio 2 (Archivos ADO.NET)\Laboratorio 2 - U4\Lab02\Lab02\obj\Debug\Lab02.exe
+C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Parcial 2\Unidad 4\Laboratorio 2 (Archivos ADO.NET)\Laboratorio 2 - U4\Lab02\Lab02\obj\Debug\Lab02.pdb

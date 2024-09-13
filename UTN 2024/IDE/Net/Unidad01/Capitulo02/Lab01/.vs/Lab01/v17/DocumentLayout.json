@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Net\\Unidad01\\Capitulo02\\Lab01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB306A4A-B317-4E87-AB2B-56B157D3C19A}|Lab01\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\pc\\desktop\\utn 2024\\tecnolog\u00EDas de desarrollo de software ide\\net\\unidad01\\capitulo02\\lab01\\lab01\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB306A4A-B317-4E87-AB2B-56B157D3C19A}|Lab01\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:lab01\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA921BA-2007-4F36-977D-6238A36BE30F}|Lab01\\WindowsService2\\WindowsService2.csproj|c:\\users\\pc\\desktop\\utn 2024\\tecnolog\u00EDas de desarrollo de software ide\\net\\unidad01\\capitulo02\\lab01\\lab01\\windowsservice2\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCA921BA-2007-4F36-977D-6238A36BE30F}|Lab01\\WindowsService2\\WindowsService2.csproj|solutionrelative:lab01\\windowsservice2\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD1D97F-5B10-4AFD-9021-561D832F9D0D}|Lab01\\Windows\\Windows.csproj|c:\\users\\pc\\desktop\\utn 2024\\tecnolog\u00EDas de desarrollo de software ide\\net\\unidad01\\capitulo02\\lab01\\lab01\\windows\\windows.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1AD1D97F-5B10-4AFD-9021-561D832F9D0D}|Lab01\\Windows\\Windows.csproj|solutionrelative:lab01\\windows\\windows.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5F9D33-DEE2-4B2D-BA2B-FC244A3BE86C}|Lab01\\WpfApp1\\WpfApp1.csproj|C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Net\\Unidad01\\Capitulo02\\Lab01\\lab01\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B5F9D33-DEE2-4B2D-BA2B-FC244A3BE86C}|Lab01\\WpfApp1\\WpfApp1.csproj|solutionrelative:lab01\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5F9D33-DEE2-4B2D-BA2B-FC244A3BE86C}|Lab01\\WpfApp1\\WpfApp1.csproj|C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Net\\Unidad01\\Capitulo02\\Lab01\\lab01\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5F9D33-DEE2-4B2D-BA2B-FC244A3BE86C}|Lab01\\WpfApp1\\WpfApp1.csproj|solutionrelative:lab01\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9567B4F-6DDF-41C6-86AD-8EBFE4CEDBE4}|Lab01\\UnitTestProject1\\UnitTestProject1.csproj|C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Net\\Unidad01\\Capitulo02\\Lab01\\lab01\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9567B4F-6DDF-41C6-86AD-8EBFE4CEDBE4}|Lab01\\UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:lab01\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A450D7-793F-4E29-B9FE-5781D7CC994E}|Lab01\\Consola\\Consola.csproj|c:\\users\\pc\\desktop\\utn 2024\\tecnolog\u00EDas de desarrollo de software ide\\net\\unidad01\\capitulo02\\lab01\\lab01\\consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A450D7-793F-4E29-B9FE-5781D7CC994E}|Lab01\\Consola\\Consola.csproj|solutionrelative:lab01\\consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A450D7-793F-4E29-B9FE-5781D7CC994E}|Lab01\\Consola\\Consola.csproj|c:\\users\\pc\\desktop\\utn 2024\\tecnolog\u00EDas de desarrollo de software ide\\net\\unidad01\\capitulo02\\lab01\\lab01\\consola\\consola.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5A450D7-793F-4E29-B9FE-5781D7CC994E}|Lab01\\Consola\\Consola.csproj|solutionrelative:lab01\\consola\\consola.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD1D97F-5B10-4AFD-9021-561D832F9D0D}|Lab01\\Windows\\Windows.csproj|C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Net\\Unidad01\\Capitulo02\\Lab01\\lab01\\windows\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AD1D97F-5B10-4AFD-9021-561D832F9D0D}|Lab01\\Windows\\Windows.csproj|solutionrelative:lab01\\windows\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76B1D5C-A61C-4365-A27D-4221E5C5AF6B}|Lab01\\Shared\\Shared.csproj|c:\\users\\pc\\desktop\\utn 2024\\tecnolog\u00EDas de desarrollo de software ide\\net\\unidad01\\capitulo02\\lab01\\lab01\\shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76B1D5C-A61C-4365-A27D-4221E5C5AF6B}|Lab01\\Shared\\Shared.csproj|solutionrelative:lab01\\shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Net\\Unidad01\\Capitulo02\\Lab01\\Lab01\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab01\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Net\\Unidad01\\Capitulo02\\Lab01\\Lab01\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Lab01\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T17:11:06.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Net\\Unidad01\\Capitulo02\\Lab01\\Lab01\\WindowsService2\\Service1.cs",
+              "RelativeDocumentMoniker": "Lab01\\WindowsService2\\Service1.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Net\\Unidad01\\Capitulo02\\Lab01\\Lab01\\WindowsService2\\Service1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Lab01\\WindowsService2\\Service1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:56:34.31Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Net\\Unidad01\\Capitulo02\\Lab01\\Lab01\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lab01\\WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Net\\Unidad01\\Capitulo02\\Lab01\\Lab01\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "Lab01\\WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T16:53:09.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Net\\Unidad01\\Capitulo02\\Lab01\\Lab01\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lab01\\WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Net\\Unidad01\\Capitulo02\\Lab01\\Lab01\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Lab01\\WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:53:09.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Net\\Unidad01\\Capitulo02\\Lab01\\Lab01\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Lab01\\UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Net\\Unidad01\\Capitulo02\\Lab01\\Lab01\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "Lab01\\UnitTestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:52:14.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Windows.csproj",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Net\\Unidad01\\Capitulo02\\Lab01\\Lab01\\Windows\\Windows.csproj",
+              "RelativeDocumentMoniker": "Lab01\\Windows\\Windows.csproj",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Net\\Unidad01\\Capitulo02\\Lab01\\Lab01\\Windows\\Windows.csproj",
+              "RelativeToolTip": "Lab01\\Windows\\Windows.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T16:31:02.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Consola.csproj",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Net\\Unidad01\\Capitulo02\\Lab01\\Lab01\\Consola\\Consola.csproj",
+              "RelativeDocumentMoniker": "Lab01\\Consola\\Consola.csproj",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Net\\Unidad01\\Capitulo02\\Lab01\\Lab01\\Consola\\Consola.csproj",
+              "RelativeToolTip": "Lab01\\Consola\\Consola.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T16:30:09.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Net\\Unidad01\\Capitulo02\\Lab01\\Lab01\\Consola\\Program.cs",
+              "RelativeDocumentMoniker": "Lab01\\Consola\\Program.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Net\\Unidad01\\Capitulo02\\Lab01\\Lab01\\Consola\\Program.cs",
+              "RelativeToolTip": "Lab01\\Consola\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:24:05.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Net\\Unidad01\\Capitulo02\\Lab01\\Lab01\\Windows\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab01\\Windows\\Form1.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Net\\Unidad01\\Capitulo02\\Lab01\\Lab01\\Windows\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Lab01\\Windows\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:17:35.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Net\\Unidad01\\Capitulo02\\Lab01\\Lab01\\Shared\\Class1.cs",
+              "RelativeDocumentMoniker": "Lab01\\Shared\\Class1.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Net\\Unidad01\\Capitulo02\\Lab01\\Lab01\\Shared\\Class1.cs",
+              "RelativeToolTip": "Lab01\\Shared\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:16:40.085Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
