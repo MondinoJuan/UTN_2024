@@ -1,122 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Parcial 2\\Unidad 4\\Laboratorio 2 (Archivos ADO.NET)\\Laboratorio 2 - U4\\Lab02\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{98D3356F-1D1D-4DE5-8CE3-53FF5B6D9529}|Lab02\\Lab02.csproj|c:\\users\\pc\\desktop\\utn 2024\\tecnolog\u00EDas de desarrollo de software ide\\parcial 2\\unidad 4\\laboratorio 2 (archivos ado.net)\\laboratorio 2 - u4\\lab02\\lab02\\manejadorarchivotxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98D3356F-1D1D-4DE5-8CE3-53FF5B6D9529}|Lab02\\Lab02.csproj|solutionrelative:lab02\\manejadorarchivotxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98D3356F-1D1D-4DE5-8CE3-53FF5B6D9529}|Lab02\\Lab02.csproj|C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Parcial 2\\Unidad 4\\Laboratorio 2 (Archivos ADO.NET)\\Laboratorio 2 - U4\\Lab02\\lab02\\agenda.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{98D3356F-1D1D-4DE5-8CE3-53FF5B6D9529}|Lab02\\Lab02.csproj|solutionrelative:lab02\\agenda.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98D3356F-1D1D-4DE5-8CE3-53FF5B6D9529}|Lab02\\Lab02.csproj|C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Parcial 2\\Unidad 4\\Laboratorio 2 (Archivos ADO.NET)\\Laboratorio 2 - U4\\Lab02\\lab02\\agenda.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{98D3356F-1D1D-4DE5-8CE3-53FF5B6D9529}|Lab02\\Lab02.csproj|solutionrelative:lab02\\agenda.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98D3356F-1D1D-4DE5-8CE3-53FF5B6D9529}|Lab02\\Lab02.csproj|c:\\users\\pc\\desktop\\utn 2024\\tecnolog\u00EDas de desarrollo de software ide\\parcial 2\\unidad 4\\laboratorio 2 (archivos ado.net)\\laboratorio 2 - u4\\lab02\\lab02\\manejadorarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98D3356F-1D1D-4DE5-8CE3-53FF5B6D9529}|Lab02\\Lab02.csproj|solutionrelative:lab02\\manejadorarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98D3356F-1D1D-4DE5-8CE3-53FF5B6D9529}|Lab02\\Lab02.csproj|c:\\users\\pc\\desktop\\utn 2024\\tecnolog\u00EDas de desarrollo de software ide\\parcial 2\\unidad 4\\laboratorio 2 (archivos ado.net)\\laboratorio 2 - u4\\lab02\\lab02\\manejadorarchivoxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98D3356F-1D1D-4DE5-8CE3-53FF5B6D9529}|Lab02\\Lab02.csproj|solutionrelative:lab02\\manejadorarchivoxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98D3356F-1D1D-4DE5-8CE3-53FF5B6D9529}|Lab02\\Lab02.csproj|c:\\users\\pc\\desktop\\utn 2024\\tecnolog\u00EDas de desarrollo de software ide\\parcial 2\\unidad 4\\laboratorio 2 (archivos ado.net)\\laboratorio 2 - u4\\lab02\\lab02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98D3356F-1D1D-4DE5-8CE3-53FF5B6D9529}|Lab02\\Lab02.csproj|solutionrelative:lab02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estado academico\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 4\\Laboratorio 2 (Archivos ADO.NET)\\Laboratorio 2 - U4\\Lab02\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ManejadorArchivo.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Parcial 2\\Unidad 4\\Laboratorio 2 (Archivos ADO.NET)\\Laboratorio 2 - U4\\Lab02\\Lab02\\ManejadorArchivo.cs",
-              "RelativeDocumentMoniker": "Lab02\\ManejadorArchivo.cs",
-              "ToolTip": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Parcial 2\\Unidad 4\\Laboratorio 2 (Archivos ADO.NET)\\Laboratorio 2 - U4\\Lab02\\Lab02\\ManejadorArchivo.cs",
-              "RelativeToolTip": "Lab02\\ManejadorArchivo.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCUAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T23:40:23.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ManejadorArchivoXML.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Parcial 2\\Unidad 4\\Laboratorio 2 (Archivos ADO.NET)\\Laboratorio 2 - U4\\Lab02\\Lab02\\ManejadorArchivoXML.cs",
-              "RelativeDocumentMoniker": "Lab02\\ManejadorArchivoXML.cs",
-              "ToolTip": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Parcial 2\\Unidad 4\\Laboratorio 2 (Archivos ADO.NET)\\Laboratorio 2 - U4\\Lab02\\Lab02\\ManejadorArchivoXML.cs",
-              "RelativeToolTip": "Lab02\\ManejadorArchivoXML.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T21:43:14.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ManejadorArchivoTXT.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Parcial 2\\Unidad 4\\Laboratorio 2 (Archivos ADO.NET)\\Laboratorio 2 - U4\\Lab02\\Lab02\\ManejadorArchivoTXT.cs",
-              "RelativeDocumentMoniker": "Lab02\\ManejadorArchivoTXT.cs",
-              "ToolTip": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Parcial 2\\Unidad 4\\Laboratorio 2 (Archivos ADO.NET)\\Laboratorio 2 - U4\\Lab02\\Lab02\\ManejadorArchivoTXT.cs",
-              "RelativeToolTip": "Lab02\\ManejadorArchivoTXT.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T21:42:24.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Parcial 2\\Unidad 4\\Laboratorio 2 (Archivos ADO.NET)\\Laboratorio 2 - U4\\Lab02\\Lab02\\Program.cs",
-              "RelativeDocumentMoniker": "Lab02\\Program.cs",
-              "ToolTip": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Parcial 2\\Unidad 4\\Laboratorio 2 (Archivos ADO.NET)\\Laboratorio 2 - U4\\Lab02\\Lab02\\Program.cs",
-              "RelativeToolTip": "Lab02\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T20:12:30.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "agenda.xml",
-              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Parcial 2\\Unidad 4\\Laboratorio 2 (Archivos ADO.NET)\\Laboratorio 2 - U4\\Lab02\\Lab02\\agenda.xml",
-              "RelativeDocumentMoniker": "Lab02\\agenda.xml",
-              "ToolTip": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Parcial 2\\Unidad 4\\Laboratorio 2 (Archivos ADO.NET)\\Laboratorio 2 - U4\\Lab02\\Lab02\\agenda.xml",
-              "RelativeToolTip": "Lab02\\agenda.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-09-11T20:16:09.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "agenda.txt",
-              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Parcial 2\\Unidad 4\\Laboratorio 2 (Archivos ADO.NET)\\Laboratorio 2 - U4\\Lab02\\Lab02\\agenda.txt",
-              "RelativeDocumentMoniker": "Lab02\\agenda.txt",
-              "ToolTip": "C:\\Users\\Pc\\Desktop\\UTN 2024\\Tecnolog\u00EDas de desarrollo de software IDE\\Parcial 2\\Unidad 4\\Laboratorio 2 (Archivos ADO.NET)\\Laboratorio 2 - U4\\Lab02\\Lab02\\agenda.txt",
-              "RelativeToolTip": "Lab02\\agenda.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-09-11T20:14:57.139Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
