@@ -1,16 +1,12 @@
-/*
-1- ¿Qué personas no fueron contratadas en la mismas empresas que contrataron a Stefanía Lopez?
-*/
-
 use agencia_personal;
-select distinct per.apellido, per.nombre
-	from personas per
-    inner join contratos con on per.dni = con.dni
-    where con.cuit not in(
+
+select distinct per1.dni, per1.apellido, per1.nombre
+	from personas per1
+    inner join contratos con1 on per1.dni = con1.dni
+    where con1.cuit in (
 		select distinct con.cuit
-			from contratos con
-			inner join personas per on con.dni = per.dni
-			where per.nombre like '%stefan_a' and per.apellido like 'Lopez'
-    )
-		and per.nombre not like 'Stefan_a'
+			from personas per
+			inner join contratos con on per.dni = con.dni
+			where per.nombre like "Stefanía" and per.apellido like "López"
+	)
 ;
