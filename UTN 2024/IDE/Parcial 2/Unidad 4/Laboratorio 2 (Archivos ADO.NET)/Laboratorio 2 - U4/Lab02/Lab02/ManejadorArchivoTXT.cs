@@ -15,7 +15,7 @@ namespace Lab02
             get
             {
                 return @"Provider=Microsoft.Jet.OLEDB.4.0;
-                       Data Source=C:\Users\Pc\Desktop\UTN 2024\Tecnologías de desarrollo de software IDE\Parcial 2\Unidad 4\Laboratorio 2 (Archivos ADO.NET)\Laboratorio 2 - U4\Lab02\Lab02\bin\Debug;" +
+                       Data Source=C:\Users\juanc\OneDrive\Escritorio\Estado academico\Estudios_academicos\UTN 2024\IDE\Parcial 2\Unidad 4\Laboratorio 2 (Archivos ADO.NET)\Laboratorio 2 - U4\Lab02\Lab02\bin\Debug;" +
                        "Extended Properties='text;HDR=Yes;FMT=Delimited'";
             }
         }       

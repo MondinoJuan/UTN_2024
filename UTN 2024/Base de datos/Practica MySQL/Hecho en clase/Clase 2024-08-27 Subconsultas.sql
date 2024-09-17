@@ -25,11 +25,11 @@ select concat(emp.nombre, " ", emp.apellido) "Nombre y Apellido"
 /*
 Es más lento porque comparo con cada tupla, en vez de encontrar un valor y trabajar con ese. Por eso casi ni se usa.
 
-El ANY no se usa porque es reemplazado con el IN. EL otro que no se sua es el SOME.
+El ANY no se usa porque es reemplazado con el IN. EL otro que no se usa es el SOME.
 IN: está
 NOT IN: no está
 
-EXISTS (existe?) no se devuelve tuplas, devuelva verdadero o falso. Es un operador lógico.
+EXISTS (existe?) no devuelve tuplas, devuelve verdadero o falso. Es un operador lógico.
 La sintaxis siempre empieza con "SELECT * FROM", no se ponen atributos ni nada en el select. La operación contraria es NOT EXISTS.
 No me puede faltar, dentro de dicha subconsulta, el WHERE cuya condición referencie a la tabla externa.
 */
