@@ -12,7 +12,7 @@ update inscripcion set legajo = 99
 /*
 Se usa la clase empleado usada en parcial de recuperación de AD.
 */
-insert into empleado;
+insert into empleado
 select id_persona, cuit, nombre, apellido, telefono, email
 	from personas
     where tipo = "E";
@@ -33,11 +33,11 @@ insert into valores_plan (nom_plan, fecha_desde_plan, valor_plan)
 select val.nom_plan, '20090601', val.valor_plan, '1.2'
 	from valores_plan val
     inner join
-		{
-		select vp."nom_plan", max(vp."fecha_desde_plan"), ult_fecha
+		(
+		select vp.nom_plan, max(vp.fecha_desde_plan), ult_fecha
 			from valores_plan vp
-			group by vp."nom_plan"
-		}
+			group by vp.nom_plan
+		)
 ;
 /*
 Tienen que ser unión compatible.
