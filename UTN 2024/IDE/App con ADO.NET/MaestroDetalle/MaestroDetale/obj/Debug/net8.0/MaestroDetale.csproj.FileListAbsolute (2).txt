@@ -1,7 +1,0 @@
-C:\Users\juanc\OneDrive\Escritorio\UTN 2024\Tecnologías de desarrollo de software IDE\App con ADO.NET\MaestroDetale\MaestroDetale\obj\Debug\net8.0\MaestroDetalle.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\juanc\OneDrive\Escritorio\UTN 2024\Tecnologías de desarrollo de software IDE\App con ADO.NET\MaestroDetale\MaestroDetale\obj\Debug\net8.0\MaestroDetalle.AssemblyInfoInputs.cache
-C:\Users\juanc\OneDrive\Escritorio\UTN 2024\Tecnologías de desarrollo de software IDE\App con ADO.NET\MaestroDetale\MaestroDetale\obj\Debug\net8.0\MaestroDetalle.AssemblyInfo.cs
-C:\Users\juanc\OneDrive\Escritorio\UTN 2024\Tecnologías de desarrollo de software IDE\App con ADO.NET\MaestroDetale\MaestroDetale\obj\Debug\net8.0\MaestroDetalle.csproj.CoreCompileInputs.cache
-C:\Users\juanc\OneDrive\Escritorio\UTN 2024\Tecnologías de desarrollo de software IDE\App con ADO.NET\MaestroDetale\MaestroDetale\obj\Debug\net8.0\MaestroDetalle.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\juanc\OneDrive\Escritorio\UTN 2024\Tecnologías de desarrollo de software IDE\App con ADO.NET\MaestroDetale\MaestroDetale\obj\Debug\net8.0\MaestroDetalle.RazorAssemblyInfo.cache
-C:\Users\juanc\OneDrive\Escritorio\UTN 2024\Tecnologías de desarrollo de software IDE\App con ADO.NET\MaestroDetale\MaestroDetale\obj\Debug\net8.0\MaestroDetalle.RazorAssemblyInfo.cs

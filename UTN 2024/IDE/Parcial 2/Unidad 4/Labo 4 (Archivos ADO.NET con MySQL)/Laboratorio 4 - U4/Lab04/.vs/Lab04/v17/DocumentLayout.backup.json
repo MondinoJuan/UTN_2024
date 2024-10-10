@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 4\\Laboratorio 4 (Archivos ADO.NET con MySQL)\\Laboratorio 4 - U4\\Lab04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34FB5810-7CF0-43B3-B293-465B65CC488F}|Lab04\\Lab04.csproj|c:\\users\\juanc\\onedrive\\escritorio\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial 2\\unidad 4\\laboratorio 4 (archivos ado.net con mysql)\\laboratorio 4 - u4\\lab04\\lab04\\contactosmysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FB5810-7CF0-43B3-B293-465B65CC488F}|Lab04\\Lab04.csproj|solutionrelative:lab04\\contactosmysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FB5810-7CF0-43B3-B293-465B65CC488F}|Lab04\\Lab04.csproj|C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 4\\Laboratorio 4 (Archivos ADO.NET con MySQL)\\Laboratorio 4 - U4\\Lab04\\lab04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FB5810-7CF0-43B3-B293-465B65CC488F}|Lab04\\Lab04.csproj|solutionrelative:lab04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FB5810-7CF0-43B3-B293-465B65CC488F}|Lab04\\Lab04.csproj|C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 4\\Laboratorio 4 (Archivos ADO.NET con MySQL)\\Laboratorio 4 - U4\\Lab04\\lab04\\contactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FB5810-7CF0-43B3-B293-465B65CC488F}|Lab04\\Lab04.csproj|solutionrelative:lab04\\contactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactosMySQL.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 4\\Laboratorio 4 (Archivos ADO.NET con MySQL)\\Laboratorio 4 - U4\\Lab04\\Lab04\\ContactosMySQL.cs",
+              "RelativeDocumentMoniker": "Lab04\\ContactosMySQL.cs",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 4\\Laboratorio 4 (Archivos ADO.NET con MySQL)\\Laboratorio 4 - U4\\Lab04\\Lab04\\ContactosMySQL.cs",
+              "RelativeToolTip": "Lab04\\ContactosMySQL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T02:47:55.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contactos.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 4\\Laboratorio 4 (Archivos ADO.NET con MySQL)\\Laboratorio 4 - U4\\Lab04\\Lab04\\Contactos.cs",
+              "RelativeDocumentMoniker": "Lab04\\Contactos.cs",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 4\\Laboratorio 4 (Archivos ADO.NET con MySQL)\\Laboratorio 4 - U4\\Lab04\\Lab04\\Contactos.cs",
+              "RelativeToolTip": "Lab04\\Contactos.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:53:18.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 4\\Laboratorio 4 (Archivos ADO.NET con MySQL)\\Laboratorio 4 - U4\\Lab04\\Lab04\\Program.cs",
+              "RelativeDocumentMoniker": "Lab04\\Program.cs",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 4\\Laboratorio 4 (Archivos ADO.NET con MySQL)\\Laboratorio 4 - U4\\Lab04\\Lab04\\Program.cs",
+              "RelativeToolTip": "Lab04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:46:47.452Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

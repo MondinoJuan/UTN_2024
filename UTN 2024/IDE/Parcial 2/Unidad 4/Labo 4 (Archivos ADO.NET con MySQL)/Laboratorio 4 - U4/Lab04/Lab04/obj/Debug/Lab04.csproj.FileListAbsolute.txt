@@ -1,0 +1,9 @@
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Unidad 4\Laboratorio 4 (Archivos ADO.NET con MySQL)\Laboratorio 4 - U4\Lab04\Lab04\bin\Debug\Lab04.exe.config
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Unidad 4\Laboratorio 4 (Archivos ADO.NET con MySQL)\Laboratorio 4 - U4\Lab04\Lab04\bin\Debug\Lab04.exe
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Unidad 4\Laboratorio 4 (Archivos ADO.NET con MySQL)\Laboratorio 4 - U4\Lab04\Lab04\bin\Debug\Lab04.pdb
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Unidad 4\Laboratorio 4 (Archivos ADO.NET con MySQL)\Laboratorio 4 - U4\Lab04\Lab04\bin\Debug\MySql.Data.dll
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Unidad 4\Laboratorio 4 (Archivos ADO.NET con MySQL)\Laboratorio 4 - U4\Lab04\Lab04\obj\Debug\Lab04.csproj.AssemblyReference.cache
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Unidad 4\Laboratorio 4 (Archivos ADO.NET con MySQL)\Laboratorio 4 - U4\Lab04\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Unidad 4\Laboratorio 4 (Archivos ADO.NET con MySQL)\Laboratorio 4 - U4\Lab04\Lab04\obj\Debug\Lab04.csproj.Up2Date
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Unidad 4\Laboratorio 4 (Archivos ADO.NET con MySQL)\Laboratorio 4 - U4\Lab04\Lab04\obj\Debug\Lab04.exe
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Unidad 4\Laboratorio 4 (Archivos ADO.NET con MySQL)\Laboratorio 4 - U4\Lab04\Lab04\obj\Debug\Lab04.pdb
