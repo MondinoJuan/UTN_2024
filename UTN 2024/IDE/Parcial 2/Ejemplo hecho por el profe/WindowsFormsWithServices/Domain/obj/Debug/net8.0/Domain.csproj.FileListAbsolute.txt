@@ -1,0 +1,25 @@
+C:\Users\lucio\Desktop\WindowsFormsWithServices\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\lucio\Desktop\WindowsFormsWithServices\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\lucio\Desktop\WindowsFormsWithServices\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\lucio\Desktop\WindowsFormsWithServices\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\lucio\Desktop\WindowsFormsWithServices\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\Desktop\WindowsFormsWithServices\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\lucio\Desktop\WindowsFormsWithServices\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\lucio\Desktop\WindowsFormsWithServices\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucio\Desktop\WindowsFormsWithServices\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\lucio\Desktop\WindowsFormsWithServices\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\lucio\Desktop\WindowsFormsWithServices\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\lucio\Desktop\WindowsFormsWithServices\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Ejemplo hecho por el profe\WindowsFormsWithServices\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Ejemplo hecho por el profe\WindowsFormsWithServices\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Ejemplo hecho por el profe\WindowsFormsWithServices\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Ejemplo hecho por el profe\WindowsFormsWithServices\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Ejemplo hecho por el profe\WindowsFormsWithServices\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Ejemplo hecho por el profe\WindowsFormsWithServices\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Ejemplo hecho por el profe\WindowsFormsWithServices\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Ejemplo hecho por el profe\WindowsFormsWithServices\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Ejemplo hecho por el profe\WindowsFormsWithServices\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Ejemplo hecho por el profe\WindowsFormsWithServices\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Ejemplo hecho por el profe\WindowsFormsWithServices\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Ejemplo hecho por el profe\WindowsFormsWithServices\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Ejemplo hecho por el profe\WindowsFormsWithServices\Domain\obj\Debug\net8.0\ref\Domain.dll

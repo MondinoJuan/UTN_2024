@@ -1,8 +1,7 @@
-﻿@page
-@model lab01.U5.Views.Login.LoginModel
+﻿@model dynamic  
 @{
 }
-<form method="post">
+<form method="post" asp-controller="Login" asp-action="Login">
     <div>
         <table border="1">
             <thead>
@@ -15,51 +14,35 @@
                 </tr>
             </thead>
             <tbody>
-                <!-- Fila 1 -->
                 <tr>
                     <td></td>
-                    <td><label asp-for="Username">Usuario</label></td>
-                    <td><input type="text" asp-for="Username" /></td>
+                    <td><label for="Username" id="lblUsuario">Usuario</label></td>
+                    <td><input type="text" name="username" id="txtUsuario" /></td>
                 </tr>
-                <!-- Fila 2 -->
                 <tr>
                     <td></td>
-                    <td><label asp-for="Password">Clave</label></td>
-                    <td><input type="password" asp-for="Password" /></td>
+                    <td><label for="Password" id="lblClave">Clave</label></td>
+                    <td><input type="password" name="password" id="txtClave" /></td>
                 </tr>
-                <!-- Fila 3 -->
                 <tr>
                     <td></td>
                     <td></td>
-                    <td><button type="submit" asp-page-handler="Ingresar">Ingresar</button></td>
+                    <td><button type="submit" id="btnIngresar">Ingresar</button></td>
                 </tr>
-                <!-- Fila 4 -->
                 <tr>
                     <td>
-                        <a asp-page-handler="RecuperarClave">Olvidé mi clave</a>
+                        <a asp-controller="Login" asp-action="RecordarClave">Olvidé mi clave</a>
                     </td>
                     <td></td>
                     <td></td>
                 </tr>
             </tbody>
         </table>
-        @if (!string.IsNullOrEmpty(Model.Message))
-        {
-            <p>@Model.Message</p>
-        }
     </div>
+
+    <!-- Muestra el mensaje de error o éxito aquí -->
+    @if (!string.IsNullOrEmpty(ViewBag.Message))
+    {
+        <div style="color:red;">@ViewBag.Message</div>
+    }
 </form>
-
-<!-- Ejemplo de controles -->
-<!--    //Etiqueta
-<label asp-for="Username">Username</label>
-
-    //TextBox
-<input type="text" asp-for="Username" />
-
-    //Botón
-<button type="submit">Login</button>
-
-    //Hipervínculo
-<a asp-controller="Home" asp-action="Index">Go to home</a>
--->

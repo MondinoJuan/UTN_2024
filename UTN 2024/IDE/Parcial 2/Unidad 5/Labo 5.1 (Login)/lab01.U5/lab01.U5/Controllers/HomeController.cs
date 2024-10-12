@@ -16,7 +16,6 @@ namespace lab01.U5.Controllers
         public IActionResult Index()
         {
             return View();
-            //return RedirectToAction("Login");
         }
 
         public IActionResult Privacy()
@@ -26,8 +25,6 @@ namespace lab01.U5.Controllers
         
         public IActionResult Login()
         {
-            //return View("Login");
-            //return View();
             return View("/Views/Login/Login.cshtml");
         }
 
