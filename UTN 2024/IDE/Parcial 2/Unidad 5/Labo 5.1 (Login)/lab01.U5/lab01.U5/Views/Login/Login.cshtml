@@ -1,0 +1,65 @@
+﻿@page
+@model lab01.U5.Views.Login.LoginModel
+@{
+}
+<form method="post">
+    <div>
+        <table border="1">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th></th>
+                    <th>
+                        <label id="lblBienvenido">¡Bienvenido al sistema!</label>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Fila 1 -->
+                <tr>
+                    <td></td>
+                    <td><label asp-for="Username">Usuario</label></td>
+                    <td><input type="text" asp-for="Username" /></td>
+                </tr>
+                <!-- Fila 2 -->
+                <tr>
+                    <td></td>
+                    <td><label asp-for="Password">Clave</label></td>
+                    <td><input type="password" asp-for="Password" /></td>
+                </tr>
+                <!-- Fila 3 -->
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td><button type="submit" asp-page-handler="Ingresar">Ingresar</button></td>
+                </tr>
+                <!-- Fila 4 -->
+                <tr>
+                    <td>
+                        <a asp-page-handler="RecuperarClave">Olvidé mi clave</a>
+                    </td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+        @if (!string.IsNullOrEmpty(Model.Message))
+        {
+            <p>@Model.Message</p>
+        }
+    </div>
+</form>
+
+<!-- Ejemplo de controles -->
+<!--    //Etiqueta
+<label asp-for="Username">Username</label>
+
+    //TextBox
+<input type="text" asp-for="Username" />
+
+    //Botón
+<button type="submit">Login</button>
+
+    //Hipervínculo
+<a asp-controller="Home" asp-action="Index">Go to home</a>
+-->
