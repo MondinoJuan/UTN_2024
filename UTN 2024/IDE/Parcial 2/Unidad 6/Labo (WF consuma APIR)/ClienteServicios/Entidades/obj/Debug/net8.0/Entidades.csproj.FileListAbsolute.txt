@@ -1,0 +1,12 @@
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Unidad 6\Labo (WF consuma APIR)\ClienteServicios\Entidades\bin\Debug\net8.0\Entidades.deps.json
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Unidad 6\Labo (WF consuma APIR)\ClienteServicios\Entidades\bin\Debug\net8.0\Entidades.dll
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Unidad 6\Labo (WF consuma APIR)\ClienteServicios\Entidades\bin\Debug\net8.0\Entidades.pdb
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Unidad 6\Labo (WF consuma APIR)\ClienteServicios\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Unidad 6\Labo (WF consuma APIR)\ClienteServicios\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Unidad 6\Labo (WF consuma APIR)\ClienteServicios\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Unidad 6\Labo (WF consuma APIR)\ClienteServicios\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Unidad 6\Labo (WF consuma APIR)\ClienteServicios\Entidades\obj\Debug\net8.0\Entidades.sourcelink.json
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Unidad 6\Labo (WF consuma APIR)\ClienteServicios\Entidades\obj\Debug\net8.0\Entidades.dll
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Unidad 6\Labo (WF consuma APIR)\ClienteServicios\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Unidad 6\Labo (WF consuma APIR)\ClienteServicios\Entidades\obj\Debug\net8.0\Entidades.pdb
+C:\Users\juanc\OneDrive\Escritorio\Estudios academicos\Estudios_academicos\UTN 2024\IDE\Parcial 2\Unidad 6\Labo (WF consuma APIR)\ClienteServicios\Entidades\obj\Debug\net8.0\ref\Entidades.dll

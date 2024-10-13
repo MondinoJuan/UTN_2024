@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Ejemplo hecho por el profe\\WindowsFormsWithServices\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{12E47EC2-8DB0-4B10-BF50-814B7047B468}|WebAPI\\Controller (WebAPI).csproj|c:\\users\\juanc\\onedrive\\escritorio\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial 2\\ejemplo hecho por el profe\\windowsformswithservices\\webapi\\controller (webapi).csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{12E47EC2-8DB0-4B10-BF50-814B7047B468}|WebAPI\\Controller (WebAPI).csproj|solutionrelative:webapi\\controller (webapi).csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3151D219-3717-4261-9238-E0AA8ADA2E4D}|WindowsForms\\View (WindowsForms).csproj|c:\\users\\juanc\\onedrive\\escritorio\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial 2\\ejemplo hecho por el profe\\windowsformswithservices\\windowsforms\\clienteslista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3151D219-3717-4261-9238-E0AA8ADA2E4D}|WindowsForms\\View (WindowsForms).csproj|solutionrelative:windowsforms\\clienteslista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +23,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Controller (WebAPI)",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Ejemplo hecho por el profe\\WindowsFormsWithServices\\WebAPI\\Controller (WebAPI).csproj",
+              "RelativeDocumentMoniker": "WebAPI\\Controller (WebAPI).csproj",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Ejemplo hecho por el profe\\WindowsFormsWithServices\\WebAPI\\Controller (WebAPI).csproj",
+              "RelativeToolTip": "WebAPI\\Controller (WebAPI).csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-13T14:46:17.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ClientesLista.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Ejemplo hecho por el profe\\WindowsFormsWithServices\\WindowsForms\\ClientesLista.cs",
               "RelativeDocumentMoniker": "WindowsForms\\ClientesLista.cs",

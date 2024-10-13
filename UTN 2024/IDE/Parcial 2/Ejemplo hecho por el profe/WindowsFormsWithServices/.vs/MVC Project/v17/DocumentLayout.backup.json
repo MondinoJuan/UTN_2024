@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Ejemplo hecho por el profe\\WindowsFormsWithServices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12E47EC2-8DB0-4B10-BF50-814B7047B468}|WebAPI\\Controller (WebAPI).csproj|c:\\users\\juanc\\onedrive\\escritorio\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial 2\\ejemplo hecho por el profe\\windowsformswithservices\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12E47EC2-8DB0-4B10-BF50-814B7047B468}|WebAPI\\Controller (WebAPI).csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3151D219-3717-4261-9238-E0AA8ADA2E4D}|WindowsForms\\View (WindowsForms).csproj|c:\\users\\juanc\\onedrive\\escritorio\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial 2\\ejemplo hecho por el profe\\windowsformswithservices\\windowsforms\\clienteslista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3151D219-3717-4261-9238-E0AA8ADA2E4D}|WindowsForms\\View (WindowsForms).csproj|solutionrelative:windowsforms\\clienteslista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Ejemplo hecho por el profe\\WindowsFormsWithServices\\WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Ejemplo hecho por el profe\\WindowsFormsWithServices\\WebAPI\\Program.cs",
-              "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAbAAAAAAAAAA==",
+              "Title": "ClientesLista.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Ejemplo hecho por el profe\\WindowsFormsWithServices\\WindowsForms\\ClientesLista.cs",
+              "RelativeDocumentMoniker": "WindowsForms\\ClientesLista.cs",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Ejemplo hecho por el profe\\WindowsFormsWithServices\\WindowsForms\\ClientesLista.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsForms\\ClientesLista.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T21:39:41.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T22:22:42.662Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

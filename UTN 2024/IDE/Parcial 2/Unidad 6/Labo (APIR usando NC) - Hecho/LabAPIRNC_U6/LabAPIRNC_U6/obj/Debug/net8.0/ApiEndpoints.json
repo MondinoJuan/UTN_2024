@@ -1,0 +1,112 @@
+[
+  {
+    "ContainingType": "LabAPIRNC_U6.Controllers.AlumnoController",
+    "Method": "GetAll",
+    "RelativePath": "api/Alumno",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[LabAPIRNC_U6.Models.Alumno, LabAPIRNC_U6, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetAlumnos"
+  },
+  {
+    "ContainingType": "LabAPIRNC_U6.Controllers.AlumnoController",
+    "Method": "Create",
+    "RelativePath": "api/Alumno",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "alumno",
+        "Type": "LabAPIRNC_U6.Models.Alumno",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LabAPIRNC_U6.Models.Alumno",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LabAPIRNC_U6.Controllers.AlumnoController",
+    "Method": "GetById",
+    "RelativePath": "api/Alumno/{DNI}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "DNI",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LabAPIRNC_U6.Models.Alumno",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LabAPIRNC_U6.Controllers.AlumnoController",
+    "Method": "Update",
+    "RelativePath": "api/Alumno/{DNI}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "DNI",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "alumno",
+        "Type": "LabAPIRNC_U6.Models.Alumno",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LabAPIRNC_U6.Controllers.AlumnoController",
+    "Method": "Delete",
+    "RelativePath": "api/Alumno/{DNI}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "DNI",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

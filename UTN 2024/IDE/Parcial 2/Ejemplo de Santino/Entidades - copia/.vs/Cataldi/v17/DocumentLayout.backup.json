@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{CF6EB72D-2F31-459E-B79D-D433321A4712}|Escritorio\\Escritorio.csproj|solutionrelative:escritorio\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CF6EB72D-2F31-459E-B79D-D433321A4712}|Escritorio\\Escritorio.csproj|c:\\users\\juanc\\onedrive\\escritorio\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial 2\\ejemplo de santino\\entidades - copia\\escritorio\\escritorio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF6EB72D-2F31-459E-B79D-D433321A4712}|Escritorio\\Escritorio.csproj|solutionrelative:escritorio\\escritorio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD77A363-C629-4D0B-8B3E-77558808BAFD}|Datos\\Datos.csproj|c:\\users\\juanc\\onedrive\\escritorio\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial 2\\ejemplo de santino\\entidades - copia\\datos\\datos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD77A363-C629-4D0B-8B3E-77558808BAFD}|Datos\\Datos.csproj|solutionrelative:datos\\datos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CF6EB72D-2F31-459E-B79D-D433321A4712}|Escritorio\\Escritorio.csproj|c:\\users\\juanc\\onedrive\\escritorio\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial 2\\ejemplo de santino\\entidades - copia\\escritorio\\principal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF6EB72D-2F31-459E-B79D-D433321A4712}|Escritorio\\Escritorio.csproj|solutionrelative:escritorio\\principal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Escritorio.csproj",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Ejemplo de Santino\\Entidades - copia\\Escritorio\\Escritorio.csproj",
+              "RelativeDocumentMoniker": "Escritorio\\Escritorio.csproj",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Ejemplo de Santino\\Entidades - copia\\Escritorio\\Escritorio.csproj",
+              "RelativeToolTip": "Escritorio\\Escritorio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-12T23:40:03.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Datos.csproj",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Ejemplo de Santino\\Entidades - copia\\Datos\\Datos.csproj",
+              "RelativeDocumentMoniker": "Datos\\Datos.csproj",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Ejemplo de Santino\\Entidades - copia\\Datos\\Datos.csproj",
+              "RelativeToolTip": "Datos\\Datos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-12T23:39:58.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Principal.Designer.cs",
               "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Ejemplo de Santino\\Entidades - copia\\Escritorio\\Principal.Designer.cs",
               "RelativeDocumentMoniker": "Escritorio\\Principal.Designer.cs",
@@ -39,14 +73,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Lista.cs [Design]",
+              "DocumentIndex": 4,
+              "Title": "Lista.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Ejemplo de Santino\\Entidades - copia\\Escritorio\\Lista.cs",
               "RelativeDocumentMoniker": "Escritorio\\Lista.cs",
-              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Ejemplo de Santino\\Entidades - copia\\Escritorio\\Lista.cs [Design]",
-              "RelativeToolTip": "Escritorio\\Lista.cs [Design]",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Ejemplo de Santino\\Entidades - copia\\Escritorio\\Lista.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Escritorio\\Lista.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T20:46:56.021Z"
+              "WhenOpened": "2024-10-12T20:46:56.021Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",

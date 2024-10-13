@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LabAPIRNC_U6.props" />
+</Project>
