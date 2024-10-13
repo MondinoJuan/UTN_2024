@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 5\\Labo 5.1 (Login)\\lab01.U5\\",
+  "WorkspaceRootPath": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 5\\Labo 5.1 (Login)\\lab01.U5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14BB8D92-FAF2-4E00-A1EA-2A1F23C34B96}|lab01.U5\\lab01.U5.csproj|c:\\users\\juanc\\onedrive\\escritorio\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial 2\\unidad 5\\labo 5.1 (login)\\lab01.u5\\lab01.u5\\views\\login\\recordarclave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{14BB8D92-FAF2-4E00-A1EA-2A1F23C34B96}|lab01.U5\\lab01.U5.csproj|c:\\users\\pc\\desktop\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial 2\\unidad 5\\labo 5.1 (login)\\lab01.u5\\lab01.u5\\views\\login\\recordarclave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{14BB8D92-FAF2-4E00-A1EA-2A1F23C34B96}|lab01.U5\\lab01.U5.csproj|solutionrelative:lab01.u5\\views\\login\\recordarclave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14BB8D92-FAF2-4E00-A1EA-2A1F23C34B96}|lab01.U5\\lab01.U5.csproj|c:\\users\\juanc\\onedrive\\escritorio\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial 2\\unidad 5\\labo 5.1 (login)\\lab01.u5\\lab01.u5\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{14BB8D92-FAF2-4E00-A1EA-2A1F23C34B96}|lab01.U5\\lab01.U5.csproj|c:\\users\\pc\\desktop\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial 2\\unidad 5\\labo 5.1 (login)\\lab01.u5\\lab01.u5\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{14BB8D92-FAF2-4E00-A1EA-2A1F23C34B96}|lab01.U5\\lab01.U5.csproj|solutionrelative:lab01.u5\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14BB8D92-FAF2-4E00-A1EA-2A1F23C34B96}|lab01.U5\\lab01.U5.csproj|c:\\users\\juanc\\onedrive\\escritorio\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial 2\\unidad 5\\labo 5.1 (login)\\lab01.u5\\lab01.u5\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14BB8D92-FAF2-4E00-A1EA-2A1F23C34B96}|lab01.U5\\lab01.U5.csproj|c:\\users\\pc\\desktop\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial 2\\unidad 5\\labo 5.1 (login)\\lab01.u5\\lab01.u5\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14BB8D92-FAF2-4E00-A1EA-2A1F23C34B96}|lab01.U5\\lab01.U5.csproj|solutionrelative:lab01.u5\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "RecordarClave.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 5\\Labo 5.1 (Login)\\lab01.U5\\lab01.U5\\Views\\Login\\RecordarClave.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 5\\Labo 5.1 (Login)\\lab01.U5\\lab01.U5\\Views\\Login\\RecordarClave.cshtml",
               "RelativeDocumentMoniker": "lab01.U5\\Views\\Login\\RecordarClave.cshtml",
-              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 5\\Labo 5.1 (Login)\\lab01.U5\\lab01.U5\\Views\\Login\\RecordarClave.cshtml",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 5\\Labo 5.1 (Login)\\lab01.U5\\lab01.U5\\Views\\Login\\RecordarClave.cshtml",
               "RelativeToolTip": "lab01.U5\\Views\\Login\\RecordarClave.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-12T19:42:54.188Z",
               "EditorCaption": ""
@@ -41,27 +41,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 5\\Labo 5.1 (Login)\\lab01.U5\\lab01.U5\\Views\\Login\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 5\\Labo 5.1 (Login)\\lab01.U5\\lab01.U5\\Views\\Login\\Login.cshtml",
               "RelativeDocumentMoniker": "lab01.U5\\Views\\Login\\Login.cshtml",
-              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 5\\Labo 5.1 (Login)\\lab01.U5\\lab01.U5\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 5\\Labo 5.1 (Login)\\lab01.U5\\lab01.U5\\Views\\Login\\Login.cshtml",
               "RelativeToolTip": "lab01.U5\\Views\\Login\\Login.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-12T19:18:01.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T19:18:01.013Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 5\\Labo 5.1 (Login)\\lab01.U5\\lab01.U5\\Controllers\\LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 5\\Labo 5.1 (Login)\\lab01.U5\\lab01.U5\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "lab01.U5\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 5\\Labo 5.1 (Login)\\lab01.U5\\lab01.U5\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 5\\Labo 5.1 (Login)\\lab01.U5\\lab01.U5\\Controllers\\LoginController.cs",
               "RelativeToolTip": "lab01.U5\\Controllers\\LoginController.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAzwCAAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T19:18:49.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T19:18:49.307Z"
             }
           ]
         }
