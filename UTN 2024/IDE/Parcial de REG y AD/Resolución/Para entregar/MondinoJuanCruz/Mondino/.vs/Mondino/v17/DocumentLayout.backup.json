@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resoluci\u00F3n\\MondinoJuanCruz\\Mondino\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD942C6-CC69-4B75-B35C-8D9190DDDDBB}|Mondino.Web\\Mondino.Web.csproj|c:\\users\\juanc\\onedrive\\escritorio\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial de reg y ad\\resoluci\u00F3n\\mondinojuancruz\\mondino\\mondino.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD942C6-CC69-4B75-B35C-8D9190DDDDBB}|Mondino.Web\\Mondino.Web.csproj|solutionrelative:mondino.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD942C6-CC69-4B75-B35C-8D9190DDDDBB}|Mondino.Web\\Mondino.Web.csproj|c:\\users\\juanc\\onedrive\\escritorio\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial de reg y ad\\resoluci\u00F3n\\mondinojuancruz\\mondino\\mondino.web\\propiedadcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD942C6-CC69-4B75-B35C-8D9190DDDDBB}|Mondino.Web\\Mondino.Web.csproj|solutionrelative:mondino.web\\propiedadcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC0F0DA-805B-4B6D-A2FE-D84BB619ED56}|Mondino.Negocio\\Mondino.Negocio.csproj|c:\\users\\juanc\\onedrive\\escritorio\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial de reg y ad\\resoluci\u00F3n\\mondinojuancruz\\mondino\\mondino.negocio\\propiedadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC0F0DA-805B-4B6D-A2FE-D84BB619ED56}|Mondino.Negocio\\Mondino.Negocio.csproj|solutionrelative:mondino.negocio\\propiedadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PropiedadContext.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resoluci\u00F3n\\MondinoJuanCruz\\Mondino\\Mondino.Negocio\\PropiedadContext.cs",
+              "RelativeDocumentMoniker": "Mondino.Negocio\\PropiedadContext.cs",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resoluci\u00F3n\\MondinoJuanCruz\\Mondino\\Mondino.Negocio\\PropiedadContext.cs",
+              "RelativeToolTip": "Mondino.Negocio\\PropiedadContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:24:20.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PropiedadControllers.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resoluci\u00F3n\\MondinoJuanCruz\\Mondino\\Mondino.Web\\PropiedadControllers.cs",
+              "RelativeDocumentMoniker": "Mondino.Web\\PropiedadControllers.cs",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resoluci\u00F3n\\MondinoJuanCruz\\Mondino\\Mondino.Web\\PropiedadControllers.cs",
+              "RelativeToolTip": "Mondino.Web\\PropiedadControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:59:30.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resoluci\u00F3n\\MondinoJuanCruz\\Mondino\\Mondino.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Mondino.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resoluci\u00F3n\\MondinoJuanCruz\\Mondino\\Mondino.Web\\Program.cs",
+              "RelativeToolTip": "Mondino.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:58:38.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

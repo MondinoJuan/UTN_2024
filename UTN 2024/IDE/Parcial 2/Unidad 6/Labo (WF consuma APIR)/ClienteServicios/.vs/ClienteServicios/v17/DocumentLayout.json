@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 6\\Labo (WF consuma APIR)\\ClienteServicios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14E86AD6-FC14-4384-B909-B5CD269A5DCF}|ClienteServicios\\ClienteServicios.csproj|c:\\users\\juanc\\onedrive\\escritorio\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial 2\\unidad 6\\labo (wf consuma apir)\\clienteservicios\\clienteservicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14E86AD6-FC14-4384-B909-B5CD269A5DCF}|ClienteServicios\\ClienteServicios.csproj|solutionrelative:clienteservicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14E86AD6-FC14-4384-B909-B5CD269A5DCF}|ClienteServicios\\ClienteServicios.csproj|c:\\users\\juanc\\onedrive\\escritorio\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial 2\\unidad 6\\labo (wf consuma apir)\\clienteservicios\\clienteservicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{14E86AD6-FC14-4384-B909-B5CD269A5DCF}|ClienteServicios\\ClienteServicios.csproj|solutionrelative:clienteservicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{905B1804-642D-460E-9765-1CD16C86DD56}|Negocio\\Negocio.csproj|c:\\users\\juanc\\onedrive\\escritorio\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial 2\\unidad 6\\labo (wf consuma apir)\\clienteservicios\\negocio\\alumnonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{905B1804-642D-460E-9765-1CD16C86DD56}|Negocio\\Negocio.csproj|solutionrelative:negocio\\alumnonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,53 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 6\\Labo (WF consuma APIR)\\ClienteServicios\\ClienteServicios\\Form1.cs",
-              "RelativeDocumentMoniker": "ClienteServicios\\Form1.cs",
-              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 6\\Labo (WF consuma APIR)\\ClienteServicios\\ClienteServicios\\Form1.cs",
-              "RelativeToolTip": "ClienteServicios\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T23:04:08.436Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 6\\Labo (WF consuma APIR)\\ClienteServicios\\ClienteServicios\\Form1.cs",
-              "RelativeDocumentMoniker": "ClienteServicios\\Form1.cs",
-              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 6\\Labo (WF consuma APIR)\\ClienteServicios\\ClienteServicios\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ClienteServicios\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T23:02:06.054Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "AlumnoNegocio.cs",
               "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 6\\Labo (WF consuma APIR)\\ClienteServicios\\Negocio\\AlumnoNegocio.cs",
               "RelativeDocumentMoniker": "Negocio\\AlumnoNegocio.cs",
               "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 6\\Labo (WF consuma APIR)\\ClienteServicios\\Negocio\\AlumnoNegocio.cs",
               "RelativeToolTip": "Negocio\\AlumnoNegocio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T22:54:41.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 6\\Labo (WF consuma APIR)\\ClienteServicios\\Negocio\\Conexion.cs",
               "RelativeDocumentMoniker": "Negocio\\Conexion.cs",
               "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial 2\\Unidad 6\\Labo (WF consuma APIR)\\ClienteServicios\\Negocio\\Conexion.cs",
               "RelativeToolTip": "Negocio\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T22:49:14.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T22:49:14.609Z"
             }
           ]
         }

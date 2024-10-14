@@ -1,0 +1,112 @@
+[
+  {
+    "ContainingType": "Mondino.Web.PropiedadControllers",
+    "Method": "GetAll",
+    "RelativePath": "api/PropiedadControllers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Mondino.Negocio.Propiedad, Mondino.Negocio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetPropiedades"
+  },
+  {
+    "ContainingType": "Mondino.Web.PropiedadControllers",
+    "Method": "Create",
+    "RelativePath": "api/PropiedadControllers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "propiedad",
+        "Type": "Mondino.Negocio.Propiedad",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Mondino.Negocio.Propiedad",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Mondino.Web.PropiedadControllers",
+    "Method": "GetById",
+    "RelativePath": "api/PropiedadControllers/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Mondino.Negocio.Propiedad",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Mondino.Web.PropiedadControllers",
+    "Method": "Update",
+    "RelativePath": "api/PropiedadControllers/{Id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "propiedad",
+        "Type": "Mondino.Negocio.Propiedad",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mondino.Web.PropiedadControllers",
+    "Method": "Delete",
+    "RelativePath": "api/PropiedadControllers/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

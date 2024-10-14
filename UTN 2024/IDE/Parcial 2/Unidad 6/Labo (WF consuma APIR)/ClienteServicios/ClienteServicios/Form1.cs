@@ -30,5 +30,18 @@ namespace ClienteServicios
             await AlumnoNegocio.Delete(l.Result.ToList()[filaSeleccionada]);
             button1_Click(sender, e);
         }
+
+        private async void button2_Click(object sender, EventArgs e)
+        {
+            new Alta().ShowDialog();
+            button1_Click(sender, e);
+        }
+
+        private async void button4_Click(object sender, EventArgs e)
+        {
+            int filaSeleccionada = dataGridView1.SelectedRows[0].Index;
+            new Alta(l.Result.ToList()[filaSeleccionada]).ShowDialog();
+            button1_Click(sender, e);
+        }
     }
 }

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xjZJ2FZQBQeOn79LfaKStBBoOU0Yp6N7CMtZmIjLh1s=",
+  "Source": "Mondino.Web",
+  "BasePath": "_content/Mondino.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
