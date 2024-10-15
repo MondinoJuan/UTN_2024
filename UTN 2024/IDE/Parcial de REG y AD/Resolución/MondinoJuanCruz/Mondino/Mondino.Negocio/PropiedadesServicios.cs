@@ -30,12 +30,12 @@
             }
         }
 
-        public Propiedad? Get(int id)
+        public Propiedad? Get(long id)
         {
             using var context = new PropiedadContext();
             return context.Propiedades.Find(id);
         }
-        public void Delete(int id)
+        public void Delete(long id)
         {
             using var context = new PropiedadContext();
             Propiedad? alumnoToDelete = context.Propiedades.Find(id);

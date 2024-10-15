@@ -22,7 +22,7 @@ namespace Mondino.Web
         }
 
         [HttpGet("{Id}")]
-        public ActionResult<Propiedad> GetById(int Id)
+        public ActionResult<Propiedad> GetById(long Id)
         {
             var propiedad = _context.Propiedades.Find(Id);
             if (propiedad == null)
@@ -42,7 +42,7 @@ namespace Mondino.Web
         }
 
         [HttpPut("{Id}")]
-        public IActionResult Update(int Id, Propiedad propiedad)
+        public IActionResult Update(long Id, Propiedad propiedad)
         {
             if (Id != propiedad.Id)
             {
@@ -56,7 +56,7 @@ namespace Mondino.Web
         }
 
         [HttpDelete("{Id}")]
-        public IActionResult Delete(int Id)
+        public IActionResult Delete(long Id)
         {
             var propiedad = _context.Propiedades.Find(Id);
             if (propiedad == null)

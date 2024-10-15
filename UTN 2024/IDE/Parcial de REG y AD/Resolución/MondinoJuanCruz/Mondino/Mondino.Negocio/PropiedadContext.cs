@@ -12,7 +12,7 @@ namespace Mondino.Negocio
         }
         public PropiedadContext(DbContextOptions<PropiedadContext> options) : base(options) { }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) =>
-            optionsBuilder.UseSqlServer(@"Server=localhost\SQLEXPRESS;Database=Mondino;Trusted_Connection=True;");
+            optionsBuilder.UseSqlServer("Data Source=DESKTOP-6HBL1R6\\SQLEXPRESS;Initial Catalog=Mondino;Integrated Security=True;Encrypt=False;");
 
     }
 }

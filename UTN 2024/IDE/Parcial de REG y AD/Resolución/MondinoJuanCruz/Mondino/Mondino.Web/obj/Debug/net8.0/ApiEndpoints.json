@@ -56,7 +56,7 @@
     "Parameters": [
       {
         "Name": "Id",
-        "Type": "System.Int32",
+        "Type": "System.Int64",
         "IsRequired": true
       }
     ],
@@ -82,7 +82,7 @@
     "Parameters": [
       {
         "Name": "Id",
-        "Type": "System.Int32",
+        "Type": "System.Int64",
         "IsRequired": true
       },
       {
@@ -103,7 +103,7 @@
     "Parameters": [
       {
         "Name": "Id",
-        "Type": "System.Int32",
+        "Type": "System.Int64",
         "IsRequired": true
       }
     ],

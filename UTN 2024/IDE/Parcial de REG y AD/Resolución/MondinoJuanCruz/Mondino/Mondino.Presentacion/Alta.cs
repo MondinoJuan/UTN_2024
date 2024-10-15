@@ -12,8 +12,8 @@ namespace Mondino.Presentacion
         private async void button1_Click(object sender, EventArgs e)
         {
             Propiedad p = new Propiedad();
-            p.Id = int.Parse(textBox1.Text);
-            p.TipoPropiedad = int.Parse(textBox2.Text);
+            p.Id = long.Parse(textBox1.Text);
+            p.IdTipoPropiedad = long.Parse(textBox2.Text);
             p.Titulo = textBox3.Text;            
             p.Descripcion = textBox4.Text;
             p.CantidadHabitaciones = int.Parse(textBox5.Text);
@@ -43,7 +43,7 @@ namespace Mondino.Presentacion
             button1.Text = "Modificar";
             textBox1.Text = Convert.ToString(propiedadAModificar.Id);
             textBox1.Enabled = false;
-            textBox2.Text = Convert.ToString(propiedadAModificar.TipoPropiedad);
+            textBox2.Text = Convert.ToString(propiedadAModificar.IdTipoPropiedad);
             textBox3.Text = propiedadAModificar.Titulo;
             textBox4.Text = propiedadAModificar.Descripcion;
             textBox5.Text = Convert.ToString(propiedadAModificar.CantidadHabitaciones);

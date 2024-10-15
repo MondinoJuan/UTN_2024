@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mondino.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+467c0f8788293baa303a693505b903ec5a26301b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e582c92a8732281dc775d4dbf46085c42ec4bf5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mondino.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mondino.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

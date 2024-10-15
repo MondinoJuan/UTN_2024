@@ -6,8 +6,8 @@ namespace Mondino.Negocio
     public class Propiedad
     {
         [Key]
-        public int Id { get; set; }
-        public int TipoPropiedad { get; set; }
+        public long Id { get; set; }
+        public long IdTipoPropiedad { get; set; }
         public string Titulo { get; set; }
         public string Descripcion { get; set; }
         public int CantidadHabitaciones { get; set; }
