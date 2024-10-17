@@ -3,7 +3,7 @@ using Mondino.Negocio;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
-builder.Services.AddDbContext<PropiedadContext>(options => options.UseSqlServer("Data Source=DESKTOP-6HBL1R6\\SQLEXPRESS;Initial Catalog=Mondino;Integrated Security=True;Encrypt=False;"));
+builder.Services.AddDbContext<PropiedadContext>(options => options.UseSqlServer("Data Source=DESKTOP-KD3CGEG\\SQLEXPRESS;Initial Catalog=Mondino;Integrated Security=True;Encrypt=False;"));
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
