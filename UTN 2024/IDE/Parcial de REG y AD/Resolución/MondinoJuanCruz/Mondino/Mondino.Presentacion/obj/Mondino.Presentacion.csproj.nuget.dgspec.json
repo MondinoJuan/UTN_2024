@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolución\\MondinoJuanCruz\\Mondino\\Mondino.Presentacion\\Mondino.Presentacion.csproj": {}
+    "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolución\\MondinoJuanCruz\\Mondino\\Mondino.Presentacion\\Mondino.Presentacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolución\\MondinoJuanCruz\\Mondino\\Mondino.Negocio\\Mondino.Negocio.csproj": {
+    "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolución\\MondinoJuanCruz\\Mondino\\Mondino.Negocio\\Mondino.Negocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolución\\MondinoJuanCruz\\Mondino\\Mondino.Negocio\\Mondino.Negocio.csproj",
+        "projectUniqueName": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolución\\MondinoJuanCruz\\Mondino\\Mondino.Negocio\\Mondino.Negocio.csproj",
         "projectName": "Mondino.Negocio",
-        "projectPath": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolución\\MondinoJuanCruz\\Mondino\\Mondino.Negocio\\Mondino.Negocio.csproj",
-        "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolución\\MondinoJuanCruz\\Mondino\\Mondino.Negocio\\obj\\",
+        "projectPath": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolución\\MondinoJuanCruz\\Mondino\\Mondino.Negocio\\Mondino.Negocio.csproj",
+        "packagesPath": "C:\\Users\\juanc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolución\\MondinoJuanCruz\\Mondino\\Mondino.Negocio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\juanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -79,20 +79,20 @@
         }
       }
     },
-    "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolución\\MondinoJuanCruz\\Mondino\\Mondino.Presentacion\\Mondino.Presentacion.csproj": {
+    "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolución\\MondinoJuanCruz\\Mondino\\Mondino.Presentacion\\Mondino.Presentacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolución\\MondinoJuanCruz\\Mondino\\Mondino.Presentacion\\Mondino.Presentacion.csproj",
+        "projectUniqueName": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolución\\MondinoJuanCruz\\Mondino\\Mondino.Presentacion\\Mondino.Presentacion.csproj",
         "projectName": "Mondino.Presentacion",
-        "projectPath": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolución\\MondinoJuanCruz\\Mondino\\Mondino.Presentacion\\Mondino.Presentacion.csproj",
-        "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolución\\MondinoJuanCruz\\Mondino\\Mondino.Presentacion\\obj\\",
+        "projectPath": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolución\\MondinoJuanCruz\\Mondino\\Mondino.Presentacion\\Mondino.Presentacion.csproj",
+        "packagesPath": "C:\\Users\\juanc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolución\\MondinoJuanCruz\\Mondino\\Mondino.Presentacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\juanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -108,8 +108,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolución\\MondinoJuanCruz\\Mondino\\Mondino.Negocio\\Mondino.Negocio.csproj": {
-                "projectPath": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolución\\MondinoJuanCruz\\Mondino\\Mondino.Negocio\\Mondino.Negocio.csproj"
+              "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolución\\MondinoJuanCruz\\Mondino\\Mondino.Negocio\\Mondino.Negocio.csproj": {
+                "projectPath": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolución\\MondinoJuanCruz\\Mondino\\Mondino.Negocio\\Mondino.Negocio.csproj"
               }
             }
           }
