@@ -1,0 +1,4 @@
+/*
+Es indistinto hacer el Trigger antes o despues de un UPDATE porque se puede utilizar el prefijo old.atributo o new.atributo y la clave 
+primaria ya la tengo previamente.
+*/
