@@ -15,3 +15,8 @@ DROP TABLE AlumnoInscripciones;
 
 
 select * from Usuarios;
+
+
+INSERT INTO Usuarios (/*Id,*/ IdPlan, Nombre, Apellido, FechaNacimiento, Direccion, Tipo, Telefono, Legajo, Email, Username, Password, FechaRegistro, Habilitado)
+VALUES (/*1,*/ 101, 'Juan', 'Pérez', '1990-01-15', '123 Calle Falsa', 0, 5551234, 12345, 'juan.perez@example.com', 'juanp', 'password123', '2024-11-07', 1);
+
