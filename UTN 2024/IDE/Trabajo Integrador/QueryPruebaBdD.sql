@@ -1,0 +1,17 @@
+
+
+SELECT COLUMN_NAME, DATA_TYPE, CHARACTER_MAXIMUM_LENGTH, IS_NULLABLE FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME = 'Usuarios';
+
+DROP TABLE Comisiones;
+DROP TABLE Cursos;
+DROP TABLE DocenteCursos;
+DROP TABLE Especialidades;
+DROP TABLE Materias;
+DROP TABLE Modulos;
+DROP TABLE ModuloUsuarios;
+DROP TABLE Planes;
+DROP TABLE Usuarios;
+DROP TABLE AlumnoInscripciones;
+
+
+select * from Usuarios;
