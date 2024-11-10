@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0395B8B5-A028-4725-9C95-D131A57CB3B6}|Inmobiliaria.WebApi\\Inmobiliaria.WebApi.csproj|c:\\users\\pc\\desktop\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial de reg y ad\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0395B8B5-A028-4725-9C95-D131A57CB3B6}|Inmobiliaria.WebApi\\Inmobiliaria.WebApi.csproj|solutionrelative:inmobiliaria.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|c:\\users\\pc\\desktop\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial de reg y ad\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.ui.desktop\\propiedaddetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|solutionrelative:inmobiliaria.ui.desktop\\propiedaddetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|c:\\users\\pc\\desktop\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial de reg y ad\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.ui.desktop\\apiclients\\tipopropiedadapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|solutionrelative:inmobiliaria.ui.desktop\\apiclients\\tipopropiedadapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|c:\\users\\pc\\desktop\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial de reg y ad\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.ui.desktop\\apiclients\\propiedaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|solutionrelative:inmobiliaria.ui.desktop\\apiclients\\propiedaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|c:\\users\\pc\\desktop\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial de reg y ad\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.ui.desktop\\apiclients\\propiedadapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|solutionrelative:inmobiliaria.ui.desktop\\apiclients\\propiedadapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|c:\\users\\pc\\desktop\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial de reg y ad\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.ui.desktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D199EAF4-ED2D-44E2-9D79-5AE27B4C1300}|Inmobiliaria.UI.Desktop\\Inmobiliaria.UI.Desktop.csproj|solutionrelative:inmobiliaria.ui.desktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A53AE8-B111-405D-A628-2E992F0BD81E}|Inmobiliaria.Domain\\Inmobiliaria.Domain.csproj|c:\\users\\pc\\desktop\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial de reg y ad\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.domain\\tipopropiedadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A53AE8-B111-405D-A628-2E992F0BD81E}|Inmobiliaria.Domain\\Inmobiliaria.Domain.csproj|solutionrelative:inmobiliaria.domain\\tipopropiedadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A53AE8-B111-405D-A628-2E992F0BD81E}|Inmobiliaria.Domain\\Inmobiliaria.Domain.csproj|c:\\users\\pc\\desktop\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial de reg y ad\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.domain\\tipopropiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A53AE8-B111-405D-A628-2E992F0BD81E}|Inmobiliaria.Domain\\Inmobiliaria.Domain.csproj|solutionrelative:inmobiliaria.domain\\tipopropiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A53AE8-B111-405D-A628-2E992F0BD81E}|Inmobiliaria.Domain\\Inmobiliaria.Domain.csproj|c:\\users\\pc\\desktop\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial de reg y ad\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.domain\\propiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A53AE8-B111-405D-A628-2E992F0BD81E}|Inmobiliaria.Domain\\Inmobiliaria.Domain.csproj|solutionrelative:inmobiliaria.domain\\propiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A53AE8-B111-405D-A628-2E992F0BD81E}|Inmobiliaria.Domain\\Inmobiliaria.Domain.csproj|c:\\users\\pc\\desktop\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial de reg y ad\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.domain\\propiedaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A53AE8-B111-405D-A628-2E992F0BD81E}|Inmobiliaria.Domain\\Inmobiliaria.Domain.csproj|solutionrelative:inmobiliaria.domain\\propiedaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A53AE8-B111-405D-A628-2E992F0BD81E}|Inmobiliaria.Domain\\Inmobiliaria.Domain.csproj|c:\\users\\pc\\desktop\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial de reg y ad\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.domain\\propiedadvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A53AE8-B111-405D-A628-2E992F0BD81E}|Inmobiliaria.Domain\\Inmobiliaria.Domain.csproj|solutionrelative:inmobiliaria.domain\\propiedadvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A53AE8-B111-405D-A628-2E992F0BD81E}|Inmobiliaria.Domain\\Inmobiliaria.Domain.csproj|c:\\users\\pc\\desktop\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial de reg y ad\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.domain\\propiedadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A53AE8-B111-405D-A628-2E992F0BD81E}|Inmobiliaria.Domain\\Inmobiliaria.Domain.csproj|solutionrelative:inmobiliaria.domain\\propiedadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A53AE8-B111-405D-A628-2E992F0BD81E}|Inmobiliaria.Domain\\Inmobiliaria.Domain.csproj|c:\\users\\pc\\desktop\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial de reg y ad\\inmobiliaria-resolucionparcial - v1.0.0\\inmobiliaria-resolucionparcial\\inmobiliaria.domain\\inmobiliariacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A53AE8-B111-405D-A628-2E992F0BD81E}|Inmobiliaria.Domain\\Inmobiliaria.Domain.csproj|solutionrelative:inmobiliaria.domain\\inmobiliariacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3FB6C3-E8A0-48E9-B097-828FE58FA20A}|Solution Items{DE3FB6C3-E8A0-48E9-B097-828FE58FA20A}|C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DE3FB6C3-E8A0-48E9-B097-828FE58FA20A}|Solution Items{DE3FB6C3-E8A0-48E9-B097-828FE58FA20A}|solutionrelative:readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.WebApi\\Program.cs",
+              "RelativeToolTip": "Inmobiliaria.WebApi\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:46:32.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PropiedadDetalle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\PropiedadDetalle.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.UI.Desktop\\PropiedadDetalle.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\PropiedadDetalle.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Inmobiliaria.UI.Desktop\\PropiedadDetalle.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:46:22.55Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TipoPropiedadApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\ApiClients\\TipoPropiedadApiClient.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.UI.Desktop\\ApiClients\\TipoPropiedadApiClient.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\ApiClients\\TipoPropiedadApiClient.cs",
+              "RelativeToolTip": "Inmobiliaria.UI.Desktop\\ApiClients\\TipoPropiedadApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:44:50.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PropiedadDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\ApiClients\\PropiedadDto.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.UI.Desktop\\ApiClients\\PropiedadDto.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\ApiClients\\PropiedadDto.cs",
+              "RelativeToolTip": "Inmobiliaria.UI.Desktop\\ApiClients\\PropiedadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:44:44.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PropiedadApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\ApiClients\\PropiedadApiClient.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.UI.Desktop\\ApiClients\\PropiedadApiClient.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\ApiClients\\PropiedadApiClient.cs",
+              "RelativeToolTip": "Inmobiliaria.UI.Desktop\\ApiClients\\PropiedadApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:44:33.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\Program.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.UI.Desktop\\Program.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.UI.Desktop\\Program.cs",
+              "RelativeToolTip": "Inmobiliaria.UI.Desktop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:44:25.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TipoPropiedadService.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.Domain\\TipoPropiedadService.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.Domain\\TipoPropiedadService.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.Domain\\TipoPropiedadService.cs",
+              "RelativeToolTip": "Inmobiliaria.Domain\\TipoPropiedadService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:44:09.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TipoPropiedad.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.Domain\\TipoPropiedad.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.Domain\\TipoPropiedad.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.Domain\\TipoPropiedad.cs",
+              "RelativeToolTip": "Inmobiliaria.Domain\\TipoPropiedad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:44:07.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PropiedadValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.Domain\\PropiedadValidation.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.Domain\\PropiedadValidation.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.Domain\\PropiedadValidation.cs",
+              "RelativeToolTip": "Inmobiliaria.Domain\\PropiedadValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:43:01.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PropiedadService.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.Domain\\PropiedadService.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.Domain\\PropiedadService.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.Domain\\PropiedadService.cs",
+              "RelativeToolTip": "Inmobiliaria.Domain\\PropiedadService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:42:49.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PropiedadDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.Domain\\PropiedadDto.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.Domain\\PropiedadDto.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.Domain\\PropiedadDto.cs",
+              "RelativeToolTip": "Inmobiliaria.Domain\\PropiedadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:42:29.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Propiedad.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.Domain\\Propiedad.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.Domain\\Propiedad.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.Domain\\Propiedad.cs",
+              "RelativeToolTip": "Inmobiliaria.Domain\\Propiedad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:42:22.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InmobiliariaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.Domain\\InmobiliariaContext.cs",
+              "RelativeDocumentMoniker": "Inmobiliaria.Domain\\InmobiliariaContext.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\Inmobiliaria.Domain\\InmobiliariaContext.cs",
+              "RelativeToolTip": "Inmobiliaria.Domain\\InmobiliariaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:42:09.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\readme.txt",
+              "RelativeDocumentMoniker": "readme.txt",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Inmobiliaria-ResolucionParcial - v1.0.0\\Inmobiliaria-ResolucionParcial\\readme.txt",
+              "RelativeToolTip": "readme.txt",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-10T22:41:01.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
