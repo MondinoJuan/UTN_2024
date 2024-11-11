@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolucion JJ\\Refactorizado2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7454-B410-478A-991E-44A052890663}|Servicios\\Servicios.csproj|c:\\users\\pc\\desktop\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial de reg y ad\\resolucion jj\\refactorizado2\\servicios\\controladores\\propiedadcontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AD7454-B410-478A-991E-44A052890663}|Servicios\\Servicios.csproj|solutionrelative:servicios\\controladores\\propiedadcontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D7C657-C958-4754-9C66-AAB84FF3837E}|Entidades\\Entidades.csproj|c:\\users\\pc\\desktop\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial de reg y ad\\resolucion jj\\refactorizado2\\entidades\\entidades\\propiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D7C657-C958-4754-9C66-AAB84FF3837E}|Entidades\\Entidades.csproj|solutionrelative:entidades\\entidades\\propiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D7C657-C958-4754-9C66-AAB84FF3837E}|Entidades\\Entidades.csproj|c:\\users\\pc\\desktop\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial de reg y ad\\resolucion jj\\refactorizado2\\entidades\\dtos\\tipopropiedaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D7C657-C958-4754-9C66-AAB84FF3837E}|Entidades\\Entidades.csproj|solutionrelative:entidades\\dtos\\tipopropiedaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D7C657-C958-4754-9C66-AAB84FF3837E}|Entidades\\Entidades.csproj|c:\\users\\pc\\desktop\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial de reg y ad\\resolucion jj\\refactorizado2\\entidades\\dtos\\propiedaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D7C657-C958-4754-9C66-AAB84FF3837E}|Entidades\\Entidades.csproj|solutionrelative:entidades\\dtos\\propiedaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01920F41-1BE0-4256-B550-0DF58141746F}|Datos\\Datos.csproj|c:\\users\\pc\\desktop\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial de reg y ad\\resolucion jj\\refactorizado2\\datos\\contexto\\inmobiliariacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01920F41-1BE0-4256-B550-0DF58141746F}|Datos\\Datos.csproj|solutionrelative:datos\\contexto\\inmobiliariacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D8FB2C-2B04-4735-ACE1-8DAAD261B986}|Negocio\\Negocio.csproj|c:\\users\\pc\\desktop\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\parcial de reg y ad\\resolucion jj\\refactorizado2\\negocio\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D8FB2C-2B04-4735-ACE1-8DAAD261B986}|Negocio\\Negocio.csproj|solutionrelative:negocio\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PropiedadControlador.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolucion JJ\\Refactorizado2\\Servicios\\Controladores\\PropiedadControlador.cs",
+              "RelativeDocumentMoniker": "Servicios\\Controladores\\PropiedadControlador.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolucion JJ\\Refactorizado2\\Servicios\\Controladores\\PropiedadControlador.cs",
+              "RelativeToolTip": "Servicios\\Controladores\\PropiedadControlador.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:04:17.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Propiedad.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolucion JJ\\Refactorizado2\\Entidades\\Entidades\\Propiedad.cs",
+              "RelativeDocumentMoniker": "Entidades\\Entidades\\Propiedad.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolucion JJ\\Refactorizado2\\Entidades\\Entidades\\Propiedad.cs",
+              "RelativeToolTip": "Entidades\\Entidades\\Propiedad.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:03:33.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TipoPropiedadDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolucion JJ\\Refactorizado2\\Entidades\\DTOs\\TipoPropiedadDTO.cs",
+              "RelativeDocumentMoniker": "Entidades\\DTOs\\TipoPropiedadDTO.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolucion JJ\\Refactorizado2\\Entidades\\DTOs\\TipoPropiedadDTO.cs",
+              "RelativeToolTip": "Entidades\\DTOs\\TipoPropiedadDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:03:30.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PropiedadDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolucion JJ\\Refactorizado2\\Entidades\\DTOs\\PropiedadDTO.cs",
+              "RelativeDocumentMoniker": "Entidades\\DTOs\\PropiedadDTO.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolucion JJ\\Refactorizado2\\Entidades\\DTOs\\PropiedadDTO.cs",
+              "RelativeToolTip": "Entidades\\DTOs\\PropiedadDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:03:25.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InmobiliariaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolucion JJ\\Refactorizado2\\Datos\\Contexto\\InmobiliariaContext.cs",
+              "RelativeDocumentMoniker": "Datos\\Contexto\\InmobiliariaContext.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolucion JJ\\Refactorizado2\\Datos\\Contexto\\InmobiliariaContext.cs",
+              "RelativeToolTip": "Datos\\Contexto\\InmobiliariaContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:03:15.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolucion JJ\\Refactorizado2\\Negocio\\Conexion.cs",
+              "RelativeDocumentMoniker": "Negocio\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Parcial de REG y AD\\Resolucion JJ\\Refactorizado2\\Negocio\\Conexion.cs",
+              "RelativeToolTip": "Negocio\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:02:53.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

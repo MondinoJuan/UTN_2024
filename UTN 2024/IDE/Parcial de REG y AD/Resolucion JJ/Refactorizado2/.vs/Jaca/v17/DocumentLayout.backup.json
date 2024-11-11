@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juamp.DESKTOP-I6LRHO6\\OneDrive\\Documentos\\Juampi\\UTN\\3\u00B0 A\u00F1o\\.NET\\ParcialPC\\Refactorizado2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01920F41-1BE0-4256-B550-0DF58141746F}|Datos\\Datos.csproj|c:\\users\\juamp.desktop-i6lrho6\\onedrive\\documentos\\juampi\\utn\\3\u00B0 a\u00F1o\\.net\\parcialpc\\refactorizado2\\datos\\contexto\\inmobiliariacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01920F41-1BE0-4256-B550-0DF58141746F}|Datos\\Datos.csproj|solutionrelative:datos\\contexto\\inmobiliariacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABDF302-9145-42A0-B15F-28CF86C9F043}|Escritorio\\Escritorio.csproj|c:\\users\\juamp.desktop-i6lrho6\\onedrive\\documentos\\juampi\\utn\\3\u00B0 a\u00F1o\\.net\\parcialpc\\refactorizado2\\escritorio\\vistas\\principal\\grilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABDF302-9145-42A0-B15F-28CF86C9F043}|Escritorio\\Escritorio.csproj|solutionrelative:escritorio\\vistas\\principal\\grilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABDF302-9145-42A0-B15F-28CF86C9F043}|Escritorio\\Escritorio.csproj|c:\\users\\juamp.desktop-i6lrho6\\onedrive\\documentos\\juampi\\utn\\3\u00B0 a\u00F1o\\.net\\parcialpc\\refactorizado2\\escritorio\\vistas\\principal\\propiedadui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABDF302-9145-42A0-B15F-28CF86C9F043}|Escritorio\\Escritorio.csproj|solutionrelative:escritorio\\vistas\\principal\\propiedadui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D7C657-C958-4754-9C66-AAB84FF3837E}|Entidades\\Entidades.csproj|c:\\users\\juamp.desktop-i6lrho6\\onedrive\\documentos\\juampi\\utn\\3\u00B0 a\u00F1o\\.net\\parcialpc\\refactorizado2\\entidades\\entidades\\propiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D7C657-C958-4754-9C66-AAB84FF3837E}|Entidades\\Entidades.csproj|solutionrelative:entidades\\entidades\\propiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D8FB2C-2B04-4735-ACE1-8DAAD261B986}|Negocio\\Negocio.csproj|c:\\users\\juamp.desktop-i6lrho6\\onedrive\\documentos\\juampi\\utn\\3\u00B0 a\u00F1o\\.net\\parcialpc\\refactorizado2\\negocio\\negocio\\propiedadnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D8FB2C-2B04-4735-ACE1-8DAAD261B986}|Negocio\\Negocio.csproj|solutionrelative:negocio\\negocio\\propiedadnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7454-B410-478A-991E-44A052890663}|Servicios\\Servicios.csproj|c:\\users\\juamp.desktop-i6lrho6\\onedrive\\documentos\\juampi\\utn\\3\u00B0 a\u00F1o\\.net\\parcialpc\\refactorizado2\\servicios\\controladores\\propiedadcontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AD7454-B410-478A-991E-44A052890663}|Servicios\\Servicios.csproj|solutionrelative:servicios\\controladores\\propiedadcontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InmobiliariaContext.cs",
+              "DocumentMoniker": "C:\\Users\\juamp.DESKTOP-I6LRHO6\\OneDrive\\Documentos\\Juampi\\UTN\\3\u00B0 A\u00F1o\\.NET\\ParcialPC\\Refactorizado2\\Datos\\Contexto\\InmobiliariaContext.cs",
+              "RelativeDocumentMoniker": "Datos\\Contexto\\InmobiliariaContext.cs",
+              "ToolTip": "C:\\Users\\juamp.DESKTOP-I6LRHO6\\OneDrive\\Documentos\\Juampi\\UTN\\3\u00B0 A\u00F1o\\.NET\\ParcialPC\\Refactorizado2\\Datos\\Contexto\\InmobiliariaContext.cs",
+              "RelativeToolTip": "Datos\\Contexto\\InmobiliariaContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T21:38:24.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Propiedad.cs",
+              "DocumentMoniker": "C:\\Users\\juamp.DESKTOP-I6LRHO6\\OneDrive\\Documentos\\Juampi\\UTN\\3\u00B0 A\u00F1o\\.NET\\ParcialPC\\Refactorizado2\\Entidades\\Entidades\\Propiedad.cs",
+              "RelativeDocumentMoniker": "Entidades\\Entidades\\Propiedad.cs",
+              "ToolTip": "C:\\Users\\juamp.DESKTOP-I6LRHO6\\OneDrive\\Documentos\\Juampi\\UTN\\3\u00B0 A\u00F1o\\.NET\\ParcialPC\\Refactorizado2\\Entidades\\Entidades\\Propiedad.cs",
+              "RelativeToolTip": "Entidades\\Entidades\\Propiedad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:59:49.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PropiedadNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\juamp.DESKTOP-I6LRHO6\\OneDrive\\Documentos\\Juampi\\UTN\\3\u00B0 A\u00F1o\\.NET\\ParcialPC\\Refactorizado2\\Negocio\\Negocio\\PropiedadNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\Negocio\\PropiedadNegocio.cs",
+              "ToolTip": "C:\\Users\\juamp.DESKTOP-I6LRHO6\\OneDrive\\Documentos\\Juampi\\UTN\\3\u00B0 A\u00F1o\\.NET\\ParcialPC\\Refactorizado2\\Negocio\\Negocio\\PropiedadNegocio.cs",
+              "RelativeToolTip": "Negocio\\Negocio\\PropiedadNegocio.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:31:52.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PropiedadUI.cs",
+              "DocumentMoniker": "C:\\Users\\juamp.DESKTOP-I6LRHO6\\OneDrive\\Documentos\\Juampi\\UTN\\3\u00B0 A\u00F1o\\.NET\\ParcialPC\\Refactorizado2\\Escritorio\\Vistas\\Principal\\PropiedadUI.cs",
+              "RelativeDocumentMoniker": "Escritorio\\Vistas\\Principal\\PropiedadUI.cs",
+              "ToolTip": "C:\\Users\\juamp.DESKTOP-I6LRHO6\\OneDrive\\Documentos\\Juampi\\UTN\\3\u00B0 A\u00F1o\\.NET\\ParcialPC\\Refactorizado2\\Escritorio\\Vistas\\Principal\\PropiedadUI.cs",
+              "RelativeToolTip": "Escritorio\\Vistas\\Principal\\PropiedadUI.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:29:27.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grilla.cs",
+              "DocumentMoniker": "C:\\Users\\juamp.DESKTOP-I6LRHO6\\OneDrive\\Documentos\\Juampi\\UTN\\3\u00B0 A\u00F1o\\.NET\\ParcialPC\\Refactorizado2\\Escritorio\\Vistas\\Principal\\Grilla.cs",
+              "RelativeDocumentMoniker": "Escritorio\\Vistas\\Principal\\Grilla.cs",
+              "ToolTip": "C:\\Users\\juamp.DESKTOP-I6LRHO6\\OneDrive\\Documentos\\Juampi\\UTN\\3\u00B0 A\u00F1o\\.NET\\ParcialPC\\Refactorizado2\\Escritorio\\Vistas\\Principal\\Grilla.cs",
+              "RelativeToolTip": "Escritorio\\Vistas\\Principal\\Grilla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:28:13.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PropiedadControlador.cs",
+              "DocumentMoniker": "C:\\Users\\juamp.DESKTOP-I6LRHO6\\OneDrive\\Documentos\\Juampi\\UTN\\3\u00B0 A\u00F1o\\.NET\\ParcialPC\\Refactorizado2\\Servicios\\Controladores\\PropiedadControlador.cs",
+              "RelativeDocumentMoniker": "Servicios\\Controladores\\PropiedadControlador.cs",
+              "ToolTip": "C:\\Users\\juamp.DESKTOP-I6LRHO6\\OneDrive\\Documentos\\Juampi\\UTN\\3\u00B0 A\u00F1o\\.NET\\ParcialPC\\Refactorizado2\\Servicios\\Controladores\\PropiedadControlador.cs",
+              "RelativeToolTip": "Servicios\\Controladores\\PropiedadControlador.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:23:33.97Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

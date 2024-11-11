@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mondino.Negocio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18eb019766d549d1059dc6afaba124cdf28f4cb3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+087a6e26935c7b7cfb2885d8961d28bd2a80e861")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mondino.Negocio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mondino.Negocio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
