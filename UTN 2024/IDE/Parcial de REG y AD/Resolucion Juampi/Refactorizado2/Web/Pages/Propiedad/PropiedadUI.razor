@@ -1,0 +1,211 @@
+﻿    @page "/propiedad"
+    @page "/propiedad/{idPropiedad:int}"
+
+    @inject SweetAlertService Swal;
+    @inject NavigationManager navegacion;
+
+    <h2 class="mt-3">@titulo</h2>
+
+    @if (!errorBD)
+    {
+        @if (!errorFaltanEntidades)
+        {
+            <EditForm Model="propiedad" OnValidSubmit="GuardarPropiedad">
+                <DataAnnotationsValidator></DataAnnotationsValidator>
+
+                <div class="mt-4">
+                    <label class="form-label fw-bold">Titulo</label>
+                    <InputText class="form-control" @bind-Value="propiedad.Titulo"></InputText>
+                    <ValidationMessage For="@(() => propiedad.Titulo)"></ValidationMessage>
+                </div>
+
+                <div class="mt-4">
+                    <label class="form-label fw-bold">Descripcion</label>
+                    <InputText class="form-control" @bind-Value="propiedad.Descripcion"></InputText>
+                    <ValidationMessage For="@(() => propiedad.Descripcion)"></ValidationMessage>
+                </div>
+
+                <div class="mt-4">
+                    <label class="form-label fw-bold">Cantidad de Habitaciones</label>
+                    <InputNumber class="form-control" @bind-Value="propiedad.CantidadHabitaciones"></InputNumber>
+                    <ValidationMessage For="@(() => propiedad.CantidadHabitaciones)"></ValidationMessage>
+                </div>
+
+                <div class="mt-4">
+                    <label class="form-label fw-bold">Metros Cuadrados</label>
+                    <InputNumber class="form-control" @bind-Value="propiedad.M2"></InputNumber>
+                    <ValidationMessage For="@(() => propiedad.M2)"></ValidationMessage>
+                </div>
+
+                <div class="mt-4">
+                    <label class="form-label fw-bold">Fecha de Alta</label>
+                    <InputDate class="form-control" @bind-Value="propiedad.FechaAlta" readonly disabled></InputDate>
+                    <ValidationMessage For="@(() => propiedad.FechaAlta)"></ValidationMessage>
+                </div>
+
+                <div class="mt-4">
+                    <label class="form-label fw-bold">Plan</label>
+                    <InputSelect class="form-select" @bind-Value="propiedad.IdTipoPropiedad">
+                        @foreach (var tipoPropiedad in tiposPropiedades)
+                        {
+                            <option value="@tipoPropiedad.Id">@tipoPropiedad.Descripcion</option>
+                        }
+                    </InputSelect>
+                    <ValidationMessage For="@(() => propiedad.IdTipoPropiedad)"></ValidationMessage>
+                </div>
+
+                <div class="d-flex align-items-center justify-content-end mt-3">
+                    <a class="btn btn-warning" href="propiedades">Volver</a>
+
+                    <button class="btn btn-primary ms-2" type="submit">
+                        @btnTexto
+                    </button>
+                </div>
+
+            </EditForm>
+        }
+        else
+        {
+            <div class="alert alert-warning fw-bold my-4" role="alert">
+                Debe haber al menos un Tipo de Propiedad registrado previamente!
+            </div>
+            <div class="d-flex justify-content-end">
+                <a class="btn btn-warning" href="propiedades">Volver</a>
+            </div>
+        }
+    }
+    else
+    {
+        <div class="alert alert-danger fw-bold my-4" role="alert">
+            Error al conectarse a la base de datos!
+        </div>
+        <div class="d-flex justify-content-end">
+            <a class="btn btn-warning" href="propiedades">Volver</a>
+        </div>
+    }
+
+
+    @code {
+        [Parameter]
+        public int idPropiedad { get; set; } = 0;
+
+        string titulo = string.Empty;
+        string btnTexto = string.Empty;
+
+        Propiedad propiedad = new Propiedad();
+        List<TipoPropiedad> tiposPropiedades = new List<TipoPropiedad>();
+
+        bool errorBD = false;
+        bool errorFaltanEntidades = false;
+
+        protected override async Task OnInitializedAsync()
+        {
+            if (idPropiedad != 0)
+            {
+                titulo = "Editar Propiedad";
+                btnTexto = "Actualizar";
+
+                try
+                {
+                    propiedad = await PropiedadNegocio.GetOne(idPropiedad);
+
+                    tiposPropiedades = (List<TipoPropiedad>) await TipoPropiedadNegocio.GetAll();
+
+                }
+                catch (Exception)
+                {
+                    errorBD = true;
+                }
+            }
+            else
+            {
+                titulo = "Nueva Propiedad";
+                btnTexto = "Guardar";
+
+                try
+                {
+                    tiposPropiedades = (List<TipoPropiedad>) await TipoPropiedadNegocio.GetAll();
+
+                }
+                catch (Exception)
+                {
+                    errorBD = true;
+                }
+            }
+
+            if (tiposPropiedades.Any())
+            {
+                tiposPropiedades = tiposPropiedades.OrderBy(tipoPropiedad => tipoPropiedad.Descripcion).ToList();
+            }
+            else
+            {
+                errorFaltanEntidades = true;
+            }
+        }
+
+        private async Task GuardarPropiedad()
+        {
+            var result = await Swal.FireAsync(new SweetAlertOptions
+                {
+                    Title = "¿Está seguro?",
+                    Text = "Se guardaran los cambios realizados",
+                    Icon = SweetAlertIcon.Question,
+                    ShowCancelButton = true,
+                    CancelButtonText = "Cancelar",
+                    ConfirmButtonText = "Confirmar"
+                });
+
+            if (result.IsConfirmed)
+            {
+                if (idPropiedad != 0)
+                {
+                    PropiedadDTO propiedadDTO = new PropiedadDTO();
+                    propiedadDTO.Titulo = propiedad.Titulo;
+                    propiedadDTO.Descripcion = propiedad.Descripcion;
+                    propiedadDTO.CantidadHabitaciones = propiedad.CantidadHabitaciones;
+                    propiedadDTO.M2 = propiedad.M2;
+                    propiedadDTO.Precio = propiedad.Precio;
+                    propiedadDTO.IdTipoPropiedad = propiedad.IdTipoPropiedad;
+
+                    HttpResponseMessage response = await PropiedadNegocio.Update(idPropiedad, propiedadDTO);
+
+                    if (response.StatusCode == HttpStatusCode.OK)
+                    {
+                        await Swal.FireAsync("Propiedad actualizada", "La propiedad ha sido actualizada correctamente", SweetAlertIcon.Success);
+                    }
+                    else if (response.StatusCode == HttpStatusCode.BadRequest)
+                    {
+                        await Swal.FireAsync("Error", "La operación no se ha podido llevar a cabo", SweetAlertIcon.Error);
+                    }
+                    else if (response.StatusCode == HttpStatusCode.ServiceUnavailable)
+                    {
+                        await Swal.FireAsync("Error", "Error al conectarse a la base de datos!", SweetAlertIcon.Error);
+                    }
+                }
+                else
+                {
+                    if (propiedad.IdTipoPropiedad == 0)
+                    {
+                        propiedad.IdTipoPropiedad = tiposPropiedades.First().Id;
+                    }
+
+                    HttpResponseMessage response = await PropiedadNegocio.Add(propiedad);
+
+                    if (response.StatusCode == HttpStatusCode.Created)
+                    {
+                        await Swal.FireAsync("Propiedad creada", "La propiedad ha sido creada correctamente", SweetAlertIcon.Success);
+                    }
+                    else if (response.StatusCode == HttpStatusCode.BadRequest)
+                    {
+                        await Swal.FireAsync("Error", "La operación no se ha podido llevar a cabo", SweetAlertIcon.Error);
+                    }
+                    else if (response.StatusCode == HttpStatusCode.ServiceUnavailable)
+                    {
+                        await Swal.FireAsync("Error", "Error al conectarse a la base de datos!", SweetAlertIcon.Error);
+                    }
+                }
+                navegacion.NavigateTo("/propiedades");
+            }
+        }
+    }
+}

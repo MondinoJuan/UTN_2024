@@ -1,0 +1,124 @@
+﻿@page "/tipos-propiedades"
+
+@inject SweetAlertService Swal;
+
+
+@if (!error)
+{
+    @if (tiposPropiedades == null)
+    {
+        <div class="d-flex align-items-center mt-3">
+            <h2 class="me-3">Tipos de Propiedades</h2>
+            <img class="pb-2" style="width:35px" src="https://media.tenor.com/On7kvXhzml4AAAAj/loading-gif.gif" />
+        </div>
+    }
+    else
+    {
+        <div class="d-flex align-items-center justify-content-between mt-3">
+            <h2>Tipos de Propiedades</h2>
+            <a href="tipo-propiedad">
+                <img class="pb-2" src="/assets/add.png" style="width: 60px; height: 60px" />
+            </a>
+        </div>
+
+        @if (tiposPropiedades.Count() == 0)
+        {
+            <div class="alert alert-primary fw-bold mt-3" role="alert">
+                No hay tipos de propiedades registrados
+            </div>
+        }
+        else
+        {
+            <table class="table mt-3">
+                <thead>
+                    <tr>
+                        <th>Descripcion</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var tipoPropiedad in tiposPropiedades)
+                    {
+                        <tr>
+                            <td style="vertical-align: middle;">@tipoPropiedad.Descripcion</td>
+                            <td class="d-flex justify-content-end">
+                                <a class="btn btn-primary btn-sm" href="tipo-propiedad/@tipoPropiedad.Id">
+                                    <i class="bi bi-pencil-square fs-5"></i>
+                                </a>
+                                <button class="btn btn-danger btn-sm ms-2" @onclick="(() => EliminarTipoPropiedad(tipoPropiedad))">
+                                    <i class="bi bi-trash-fill fs-5"></i>
+                                </button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    }
+}
+else
+{
+    <h2 class="mt-3">Tipos de Propiedades</h2>
+    <div class="alert alert-danger fw-bold my-3" role="alert">
+        Error al conectarse a la base de datos!
+    </div>
+    <div class="d-flex justify-content-end">
+        <button class="btn btn-primary" @onclick="OnInitializedAsync">Reintentar</button>
+    </div>
+}
+
+
+@code {
+    IEnumerable<TipoPropiedad> tiposPropiedades;
+
+    bool error;
+
+    protected override async Task OnInitializedAsync()
+    {
+        tiposPropiedades = null;
+        error = false;
+
+        try
+        {
+            tiposPropiedades = await TipoPropiedadNegocio.GetAll();
+
+        }
+        catch (Exception)
+        {
+            error = true;
+        }
+    }
+
+    private async Task EliminarTipoPropiedad(TipoPropiedad tipoPropiedad)
+    {
+        var result = await Swal.FireAsync(new SweetAlertOptions
+            {
+                Title = "¿Está seguro?",
+                Text = "Esta acción no se puede revertir",
+                Icon = SweetAlertIcon.Warning,
+                ShowCancelButton = true,
+                CancelButtonText = "Cancelar",
+                ConfirmButtonText = "Confirmar"
+            });
+
+        if (result.IsConfirmed)
+        {
+            HttpResponseMessage response = await TipoPropiedadNegocio.Delete(tipoPropiedad);
+
+            if (response.StatusCode == HttpStatusCode.OK)
+            {
+                await Swal.FireAsync("Tipo de Propiedad eliminado", "El Tipo de Propiedad ha sido eliminado correctamente", SweetAlertIcon.Success);
+
+                await OnInitializedAsync();
+            }
+            else if (response.StatusCode == HttpStatusCode.BadRequest)
+            {
+                await Swal.FireAsync("Error", "El Tipo de Propiedad tiene propiedades asociadas", SweetAlertIcon.Error);
+            }
+            else if (response.StatusCode == HttpStatusCode.ServiceUnavailable)
+            {
+                error = true;
+            }
+        }
+    }
+}

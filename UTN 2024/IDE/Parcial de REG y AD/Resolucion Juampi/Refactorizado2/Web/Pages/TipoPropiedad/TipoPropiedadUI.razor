@@ -1,0 +1,131 @@
+﻿@page "/tipo-propiedad"
+@page "/tipo-propiedad/{idTipoPropiedad:int}"
+
+@inject SweetAlertService Swal;
+@inject NavigationManager navegacion;
+
+<h2 class="mt-3">@titulo</h2>
+
+@if (!error)
+{
+    <EditForm Model="tipoPropiedad" OnValidSubmit="GuardarTipoPropiedad">
+        <DataAnnotationsValidator></DataAnnotationsValidator>
+
+        <div class="mt-4">
+            <label class="form-label fw-bold">Descripcion</label>
+            <InputText class="form-control" @bind-Value="tipoPropiedad.Descripcion"></InputText>
+            <ValidationMessage For="@(() => tipoPropiedad.Descripcion)"></ValidationMessage>
+        </div>
+
+        <div class="d-flex align-items-center justify-content-end mt-3">
+            <a class="btn btn-warning" href="tipoPropiedades">Volver</a>
+
+            <button class="btn btn-primary ms-2" type="submit">
+                @btnTexto
+            </button>
+        </div>
+
+    </EditForm>
+}
+else
+{
+    <div class="alert alert-danger fw-bold my-4" role="alert">
+        Error al conectarse a la base de datos!
+    </div>
+    <div class="d-flex justify-content-end">
+        <a class="btn btn-warning" href="tipoPropiedades">Volver</a>
+    </div>
+}
+
+
+
+@code {
+    [Parameter]
+    public int idTipoPropiedad { get; set; } = 0;
+
+    string titulo = string.Empty;
+    string btnTexto = string.Empty;
+
+    TipoPropiedad tipoPropiedad = new TipoPropiedad();
+
+    bool error = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        if (idTipoPropiedad != 0)
+        {
+            titulo = "Editar Tipo de Propiedad";
+            btnTexto = "Actualizar";
+
+            try
+            {
+                tipoPropiedad = await TipoPropiedadNegocio.GetOne(idTipoPropiedad);
+
+            }
+            catch (Exception)
+            {
+                error = true;
+            }
+        }
+        else
+        {
+            titulo = "Nuevo Tipo de Propiedad";
+            btnTexto = "Guardar";
+        }
+    }
+
+    private async Task GuardarTipoPropiedad()
+    {
+        var result = await Swal.FireAsync(new SweetAlertOptions
+            {
+                Title = "¿Está seguro?",
+                Text = "Se guardaran los cambios realizados",
+                Icon = SweetAlertIcon.Question,
+                ShowCancelButton = true,
+                CancelButtonText = "Cancelar",
+                ConfirmButtonText = "Confirmar"
+            });
+
+        if (result.IsConfirmed)
+        {
+            if (idTipoPropiedad != 0)
+            {
+                TipoPropiedadDTO tipoPropiedadDTO = new TipoPropiedadDTO();
+                tipoPropiedadDTO.Descripcion = tipoPropiedad.Descripcion;
+
+                HttpResponseMessage response = await TipoPropiedadNegocio.Update(idTipoPropiedad, tipoPropiedadDTO);
+
+                if (response.StatusCode == HttpStatusCode.OK)
+                {
+                    await Swal.FireAsync("Tipo de Propiedad actualizado", "El Tipo de Propiedad ha sido actualizado correctamente", SweetAlertIcon.Success);
+                }
+                else if (response.StatusCode == HttpStatusCode.BadRequest)
+                {
+                    await Swal.FireAsync("Error", "La operación no se ha podido llevar a cabo", SweetAlertIcon.Error);
+                }
+                else if (response.StatusCode == HttpStatusCode.ServiceUnavailable)
+                {
+                    await Swal.FireAsync("Error", "Error al conectarse a la base de datos!", SweetAlertIcon.Error);
+                }
+            }
+            else
+            {
+                HttpResponseMessage response = await TipoPropiedadNegocio.Add(tipoPropiedad);
+
+                if (response.StatusCode == HttpStatusCode.Created)
+                {
+                    await Swal.FireAsync("Tipo de Propiedad creado", "El Tipo de Propiedad ha sido creado correctamente", SweetAlertIcon.Success);
+                }
+                else if (response.StatusCode == HttpStatusCode.BadRequest)
+                {
+                    await Swal.FireAsync("Error", "La operación no se ha podido llevar a cabo", SweetAlertIcon.Error);
+                }
+                else if (response.StatusCode == HttpStatusCode.ServiceUnavailable)
+                {
+                    await Swal.FireAsync("Error", "Error al conectarse a la base de datos!", SweetAlertIcon.Error);
+                }
+            }
+            navegacion.NavigateTo("/tipos-propiedades");
+        }
+    }
+}

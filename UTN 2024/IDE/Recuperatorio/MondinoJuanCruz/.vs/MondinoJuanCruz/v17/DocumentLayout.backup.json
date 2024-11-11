@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Recuperatorio\\MondinoJuanCruz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB05448-B08A-42D0-A1A2-51C0C39F69EF}|Mondino.API\\Mondino.API.csproj|c:\\users\\juanc\\onedrive\\escritorio\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\recuperatorio\\mondinojuancruz\\mondino.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB05448-B08A-42D0-A1A2-51C0C39F69EF}|Mondino.API\\Mondino.API.csproj|solutionrelative:mondino.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6393EA3E-8F75-43B6-99B0-BE65E4556126}|Mondino.Negocio\\Mondino.Negocio.csproj|c:\\users\\juanc\\onedrive\\escritorio\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\recuperatorio\\mondinojuancruz\\mondino.negocio\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6393EA3E-8F75-43B6-99B0-BE65E4556126}|Mondino.Negocio\\Mondino.Negocio.csproj|solutionrelative:mondino.negocio\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6393EA3E-8F75-43B6-99B0-BE65E4556126}|Mondino.Negocio\\Mondino.Negocio.csproj|c:\\users\\juanc\\onedrive\\escritorio\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\recuperatorio\\mondinojuancruz\\mondino.negocio\\recucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6393EA3E-8F75-43B6-99B0-BE65E4556126}|Mondino.Negocio\\Mondino.Negocio.csproj|solutionrelative:mondino.negocio\\recucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F03F70F-99A9-4372-AD05-C9E89A043770}|Mondino.Forms\\Mondino.Forms.csproj|C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Recuperatorio\\MondinoJuanCruz\\mondino.forms\\listarprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F03F70F-99A9-4372-AD05-C9E89A043770}|Mondino.Forms\\Mondino.Forms.csproj|solutionrelative:mondino.forms\\listarprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F03F70F-99A9-4372-AD05-C9E89A043770}|Mondino.Forms\\Mondino.Forms.csproj|c:\\users\\juanc\\onedrive\\escritorio\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\recuperatorio\\mondinojuancruz\\mondino.forms\\listarprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F03F70F-99A9-4372-AD05-C9E89A043770}|Mondino.Forms\\Mondino.Forms.csproj|solutionrelative:mondino.forms\\listarprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F03F70F-99A9-4372-AD05-C9E89A043770}|Mondino.Forms\\Mondino.Forms.csproj|c:\\users\\juanc\\onedrive\\escritorio\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\recuperatorio\\mondinojuancruz\\mondino.forms\\agregoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F03F70F-99A9-4372-AD05-C9E89A043770}|Mondino.Forms\\Mondino.Forms.csproj|solutionrelative:mondino.forms\\agregoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F03F70F-99A9-4372-AD05-C9E89A043770}|Mondino.Forms\\Mondino.Forms.csproj|C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Recuperatorio\\MondinoJuanCruz\\mondino.forms\\agregoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F03F70F-99A9-4372-AD05-C9E89A043770}|Mondino.Forms\\Mondino.Forms.csproj|solutionrelative:mondino.forms\\agregoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F03F70F-99A9-4372-AD05-C9E89A043770}|Mondino.Forms\\Mondino.Forms.csproj|c:\\users\\juanc\\onedrive\\escritorio\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\recuperatorio\\mondinojuancruz\\mondino.forms\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F03F70F-99A9-4372-AD05-C9E89A043770}|Mondino.Forms\\Mondino.Forms.csproj|solutionrelative:mondino.forms\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F03F70F-99A9-4372-AD05-C9E89A043770}|Mondino.Forms\\Mondino.Forms.csproj|c:\\users\\juanc\\onedrive\\escritorio\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\recuperatorio\\mondinojuancruz\\mondino.forms\\productoapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F03F70F-99A9-4372-AD05-C9E89A043770}|Mondino.Forms\\Mondino.Forms.csproj|solutionrelative:mondino.forms\\productoapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6393EA3E-8F75-43B6-99B0-BE65E4556126}|Mondino.Negocio\\Mondino.Negocio.csproj|c:\\users\\juanc\\onedrive\\escritorio\\estudios academicos\\estudios_academicos\\utn 2024\\ide\\recuperatorio\\mondinojuancruz\\mondino.negocio\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6393EA3E-8F75-43B6-99B0-BE65E4556126}|Mondino.Negocio\\Mondino.Negocio.csproj|solutionrelative:mondino.negocio\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductoApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Recuperatorio\\MondinoJuanCruz\\Mondino.Forms\\ProductoApiClient.cs",
+              "RelativeDocumentMoniker": "Mondino.Forms\\ProductoApiClient.cs",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Recuperatorio\\MondinoJuanCruz\\Mondino.Forms\\ProductoApiClient.cs",
+              "RelativeToolTip": "Mondino.Forms\\ProductoApiClient.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:00:16.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Recuperatorio\\MondinoJuanCruz\\Mondino.Forms\\Producto.cs",
+              "RelativeDocumentMoniker": "Mondino.Forms\\Producto.cs",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Recuperatorio\\MondinoJuanCruz\\Mondino.Forms\\Producto.cs",
+              "RelativeToolTip": "Mondino.Forms\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:50:42.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgregoProducto.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Recuperatorio\\MondinoJuanCruz\\Mondino.Forms\\AgregoProducto.cs",
+              "RelativeDocumentMoniker": "Mondino.Forms\\AgregoProducto.cs",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Recuperatorio\\MondinoJuanCruz\\Mondino.Forms\\AgregoProducto.cs",
+              "RelativeToolTip": "Mondino.Forms\\AgregoProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:58:10.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AgregoProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Recuperatorio\\MondinoJuanCruz\\Mondino.Forms\\AgregoProducto.cs",
+              "RelativeDocumentMoniker": "Mondino.Forms\\AgregoProducto.cs",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Recuperatorio\\MondinoJuanCruz\\Mondino.Forms\\AgregoProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Mondino.Forms\\AgregoProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:49:22.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListarProd.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Recuperatorio\\MondinoJuanCruz\\Mondino.Forms\\ListarProd.cs",
+              "RelativeDocumentMoniker": "Mondino.Forms\\ListarProd.cs",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Recuperatorio\\MondinoJuanCruz\\Mondino.Forms\\ListarProd.cs",
+              "RelativeToolTip": "Mondino.Forms\\ListarProd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:47:54.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListarProd.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Recuperatorio\\MondinoJuanCruz\\Mondino.Forms\\ListarProd.cs",
+              "RelativeDocumentMoniker": "Mondino.Forms\\ListarProd.cs",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Recuperatorio\\MondinoJuanCruz\\Mondino.Forms\\ListarProd.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Mondino.Forms\\ListarProd.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:44:44.678Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Recuperatorio\\MondinoJuanCruz\\Mondino.Negocio\\Producto.cs",
+              "RelativeDocumentMoniker": "Mondino.Negocio\\Producto.cs",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Recuperatorio\\MondinoJuanCruz\\Mondino.Negocio\\Producto.cs",
+              "RelativeToolTip": "Mondino.Negocio\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:10:20.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Recuperatorio\\MondinoJuanCruz\\Mondino.API\\Program.cs",
+              "RelativeDocumentMoniker": "Mondino.API\\Program.cs",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Recuperatorio\\MondinoJuanCruz\\Mondino.API\\Program.cs",
+              "RelativeToolTip": "Mondino.API\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwCYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:34:05.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Servicios.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Recuperatorio\\MondinoJuanCruz\\Mondino.Negocio\\Servicios.cs",
+              "RelativeDocumentMoniker": "Mondino.Negocio\\Servicios.cs",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Recuperatorio\\MondinoJuanCruz\\Mondino.Negocio\\Servicios.cs",
+              "RelativeToolTip": "Mondino.Negocio\\Servicios.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwB4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:17:35.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecuContext.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Recuperatorio\\MondinoJuanCruz\\Mondino.Negocio\\RecuContext.cs",
+              "RelativeDocumentMoniker": "Mondino.Negocio\\RecuContext.cs",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\Estudios academicos\\Estudios_academicos\\UTN 2024\\IDE\\Recuperatorio\\MondinoJuanCruz\\Mondino.Negocio\\RecuContext.cs",
+              "RelativeToolTip": "Mondino.Negocio\\RecuContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:13:31.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
