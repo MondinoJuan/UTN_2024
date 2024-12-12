@@ -1,1 +1,0 @@
-Server=localhost\SQLEXPRESS;Database=Mondino;Trusted_Connection=True;
