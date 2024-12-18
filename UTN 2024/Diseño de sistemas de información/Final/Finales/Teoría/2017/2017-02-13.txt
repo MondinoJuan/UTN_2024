@@ -1,0 +1,11 @@
+Final 13/2/17
+Teoría (Multiple choice):
+------------------------
+heurísticas
+medidas de usabilidad
+técnicas de dcu de evaluación
+norma wcag (accesibilidad)
+vistas de arquitectura
+documento de arquitectura de software
+partes de arquitectura de información
+card sorting
