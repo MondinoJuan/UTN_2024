@@ -7,9 +7,9 @@ representa respecto del total de inscriptos a los Planes de Capacitación dictad
 use afatse;
 
 select count(*) into @canti
-from inscripciones
-where fecha_inscripcion
-between '2014-01-01' and '2014-12-31'
+	from inscripciones
+	where fecha_inscripcion
+	between '2014-01-01' and '2014-12-31'
 ;
 
 select nom_plan, count(*), (count(*) / @canti) * 100 "% Total"
