@@ -1,0 +1,20 @@
+2) a. Las reglas de integridad de un modelo relacional son:
+	-
+	-
+	-
+
+3) Mediante la independencia lógica y física se busca separa a los tres niveles el uno del otro, de esta forma, al realizar modificaciones en alguno de los niveles, no afecta al funcionamiento de los demás. 
+Independencia física se refiere a que el nivel interno es independiente de los demás, los cambios que se realizan al especificar dónde se almacenan los datos no afecta en ningún momento al nivel interno o al externo.
+Con la independencia lógica se busca aislar al nivel conceptual del nivel externo, así modificaciones realizadas en cómo es el esquema conceptual, no modifica cómo el usuario observa los datos.
+
+4) 
+a. Un diccionario de datos es un catálogo que almacena una descripción de los datos de la base de datos.
+b. La funcionalidad del DD es la de documentar la estructura de la BdD y facilita su administración, integridad y correcto uso.
+c. Los comandos son:
+	- INSERT
+	- UPDATE
+	- DELETE
+ 
+5) Los mecanismos de seguridad de los SGBD son:
+	- Discrecionales: El dueño de un objeto decide qué usuario tiene acceso a este y quién no.
+	- Obligatorios: Se otorgan acceso a niveles de una organización, y los usuarios se los divide en estos.

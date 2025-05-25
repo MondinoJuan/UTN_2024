@@ -1,6 +1,6 @@
 1) Te daba un modelo entidad relacion y algunas reglas de negocios. Pedia:
-a.Escribir las reglas de negocios que faltaban segun el modelo entidad relacion.
-b.Hacer el pasaje a tabla de ese Modelo.
+a. Escribir las reglas de negocios que faltaban segun el modelo entidad relacion.
+b. Hacer el pasaje a tabla de ese Modelo.
 
 2)
 a. Nombrar las reglas de integridad del Modelo Relacional
@@ -10,8 +10,8 @@ b. Escribir que dice cada regla.
 3) Segun la arquitectura ANSI de los SGBD que concibe a la Base de datos en tres niveles (Nivel Interno, Nivel Conceptual y Nivel Externo) escriba sobre la independencia logica y fisica y que se trataba de lograr con esto que no se hacia en archivos
 
 4)
-a.¿Que es el diccionario de datos o catalogo?
-b.¿Cual es la funcionalidad del diccionario de datos?
+a. ¿Que es el diccionario de datos o catalogo?
+b. ¿Cual es la funcionalidad del diccionario de datos?
 c. ¿Cuales son los comandos del DML que se puede aplicar al catalogo? 
 
 5) Con respecto a la Confidencialidad de los SGBD ¿Cuales son los mecanismos de seguridad?
