@@ -1,0 +1,70 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
+  <diagram name="Página-1" id="LQIDcwFrMOM4YqY-ytIN">
+    <mxGraphModel dx="989" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0" adaptiveColors="auto">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZbEA4yaDcrG2tfIGknmd-1" value="Personas" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="110" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbEA4yaDcrG2tfIGknmd-2" value="Categorias" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="350" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbEA4yaDcrG2tfIGknmd-3" value="&lt;div&gt;&lt;u&gt;dni&lt;/u&gt;&lt;/div&gt;nombre&lt;div&gt;apellido&lt;/div&gt;&lt;div&gt;fechaNac&lt;/div&gt;&lt;div&gt;direccion&lt;/div&gt;&lt;div&gt;telefono&lt;/div&gt;&lt;div&gt;mail&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="30" y="75" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbEA4yaDcrG2tfIGknmd-4" value="Caballos" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="110" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbEA4yaDcrG2tfIGknmd-5" value="&lt;u&gt;SBA&lt;/u&gt;&lt;div&gt;nombre&lt;/div&gt;&lt;div&gt;raza&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="262.5" width="60" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbEA4yaDcrG2tfIGknmd-6" value="Disciplinas" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="385" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbEA4yaDcrG2tfIGknmd-7" value="&lt;u&gt;cod&lt;/u&gt;&lt;div&gt;nombre&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="377.5" width="60" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbEA4yaDcrG2tfIGknmd-8" value="Competencias" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="550" y="222.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbEA4yaDcrG2tfIGknmd-9" value="club_hipo&lt;div&gt;fechaHora&lt;/div&gt;&lt;div&gt;cantMin&lt;/div&gt;&lt;div&gt;cantMax&lt;/div&gt;&lt;div&gt;cantCabXCriador&lt;/div&gt;&lt;div&gt;premio&lt;/div&gt;&lt;div&gt;cuotaInsc&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="650" y="177.5" width="110" height="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbEA4yaDcrG2tfIGknmd-10" value="TiposCarreras" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="570" y="392.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbEA4yaDcrG2tfIGknmd-11" value="&lt;u&gt;cod&lt;/u&gt;&lt;div&gt;desc&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="670" y="385" width="60" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbEA4yaDcrG2tfIGknmd-12" value="Hipodromos" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="510" y="70" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbEA4yaDcrG2tfIGknmd-13" value="ClubesHipico" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="680" y="70" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbEA4yaDcrG2tfIGknmd-14" value="resultado" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="300" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbEA4yaDcrG2tfIGknmd-15" value="fechaHoraProg&lt;div&gt;fechaHoraReal&lt;/div&gt;&lt;div&gt;posicion&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="420" y="602.5" width="60" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbEA4yaDcrG2tfIGknmd-16" value="Jinetes" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="510" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbEA4yaDcrG2tfIGknmd-17" value="&lt;u&gt;nroIns&lt;/u&gt;&lt;div&gt;nombre&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="30" y="502.5" width="60" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbEA4yaDcrG2tfIGknmd-18" value="Socios" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="230" y="510" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbEA4yaDcrG2tfIGknmd-19" value="Encargados" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="370" y="510" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbEA4yaDcrG2tfIGknmd-21" value="Funciones" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="580" y="530" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
