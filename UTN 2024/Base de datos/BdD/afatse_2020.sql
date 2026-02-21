@@ -1,12 +1,12 @@
 SET FOREIGN_KEY_CHECKS=0;
 
-DROP DATABASE IF EXISTS `afatse`;
+DROP DATABASE IF EXISTS `afatse1`;
 
-CREATE DATABASE `afatse`
+CREATE DATABASE `afatse1`
     CHARACTER SET 'utf8'
     COLLATE 'utf8_general_ci';
 
-USE `afatse`;
+USE `afatse1`;
 
 #
 # Structure for the `alumnos` table :
