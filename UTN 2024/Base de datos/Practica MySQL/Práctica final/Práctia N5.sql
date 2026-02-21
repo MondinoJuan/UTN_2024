@@ -310,10 +310,20 @@ SELECT
     ins.cuil
 FROM
     instructores ins
-inner join cursos_instructores ci on ins.cuil = ci.cuil
-inner join cursos c on ci.nro_curso = c.nro_curso
-inner join plan_capacitacion pc on c.nom_plan = pc.nom_plan
-where (year(c.fecha_ini) = 2014 or year(c.fecha_fin) = 2014) and pc.nom_plan like '%Marketing 1%' and ins.cuil not in instMark2015
+        INNER JOIN
+    cursos_instructores ci ON ins.cuil = ci.cuil
+        INNER JOIN
+    cursos c ON ci.nro_curso = c.nro_curso
+        INNER JOIN
+    plan_capacitacion pc ON c.nom_plan = pc.nom_plan
+WHERE
+    (YEAR(c.fecha_ini) = 2014
+        OR YEAR(c.fecha_fin) = 2014)
+        AND pc.nom_plan LIKE '%Marketing 1%'
+        AND ins.cuil NOT IN (SELECT 
+            cuil
+        FROM
+            instMark2015)
 ;
 
 
