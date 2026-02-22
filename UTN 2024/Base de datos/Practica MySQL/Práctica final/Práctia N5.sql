@@ -291,7 +291,9 @@ WHERE
             MIN(valor_plan)
         FROM
             valoresActuales);
-            
+
+drop temporary table if exists valoresActuales;
+
 # Ejercicio 13
 use afatse;
 drop temporary table if exists instMark2015;
@@ -325,5 +327,108 @@ WHERE
         FROM
             instMark2015)
 ;
+
+drop temporary table if exists instMark2015;
+
+# Ejercicio 14
+use afatse;
+SELECT 
+    *
+FROM
+    alumnos a
+WHERE
+    a.dni NOT IN (SELECT 
+            c.dni
+        FROM
+            cuotas c
+        WHERE
+            c.fecha_pago IS NULL)
+;
+
+# Ejercicio 15
+use afatse;
+-- CTE
+with promedioCursos as (
+select e.nro_curso, avg(e.nota) prom from evaluaciones e
+group by e.nro_curso
+)
+
+SELECT 
+    a.dni,
+    CONCAT(a.nombre, ' ', a.apellido) AS 'Nombre',
+    AVG(e.nota),
+    pc.prom
+FROM
+    alumnos a
+        INNER JOIN
+    evaluaciones e ON a.dni = e.dni
+        INNER JOIN
+    promedioCursos pc ON e.nro_curso = pc.nro_curso
+GROUP BY a.dni , a.nombre , a.apellido , e.nro_curso
+HAVING AVG(e.nota) > pc.prom
+ORDER BY Nombre ASC
+;
+
+# Ejercicio 16
+use afatse;
+SELECT 
+    c.nro_curso,
+    c.fecha_ini,
+    c.salon,
+    c.cupo,
+    COUNT(DISTINCT i.dni),
+    (c.cupo - COUNT(DISTINCT i.dni))
+FROM
+    cursos c
+        INNER JOIN
+    inscripciones i ON c.nro_curso = i.nro_curso
+        AND c.nom_plan = i.nom_plan
+WHERE
+    c.fecha_ini > '20140401'
+GROUP BY c.nro_curso , c.fecha_ini , c.salon , c.cupo
+HAVING ((((c.cupo - COUNT(DISTINCT i.dni)) / c.cupo) * 100) > 80)
+;
+
+# Ejercicio 17
+use afatse;
+drop temporary table if exists fechaActual;
+create temporary table fechaActual as
+select vp.nom_plan, max(vp.fecha_desde_plan) as fechaMax from valores_plan vp
+group by vp.nom_plan
+;
+
+drop temporary table if exists valorActual;
+create temporary table valorActual as
+select vpl.nom_plan, fa.fechaMax, vpl.valor_plan as valorActual from valores_plan vpl
+inner join fechaActual fa on vpl.nom_plan = fa.nom_plan and vpl.fecha_desde_plan = fa.fechaMax
+;
+
+drop temporary table if exists fechaAnterior;
+create temporary table fechaAnterior as
+select vp.nom_plan, max(vp.fecha_desde_plan) as fechaAnt from plan_capacitacion p 
+left join valores_plan vp on p.nom_plan = vp.nom_plan and vp.fecha_desde_plan not in (
+select fechaMax from fechaActual
+where nom_plan = vp.nom_plan
+)
+group by vp.nom_plan
+;
+
+drop temporary table if exists valorAnterior;
+create temporary table valorAnterior as
+select vpl.nom_plan, fa.fechaAnt as maxFechaAnt, coalesce(vpl.valor_plan, 0) as valorAnterior from valores_plan vpl
+right join fechaAnterior fa on vpl.nom_plan = fa.nom_plan and vpl.fecha_desde_plan = fa.fechaAnt
+;
+
+select va.nom_plan, va.fechaMax, va.valorActual, vant.maxFechaAnt, coalesce(vant.valorAnterior, 0), (va.valorActual - vant.valorAnterior) from valorAnterior vant
+right join valorActual va on va.nom_plan = vant.nom_plan
+;
+
+drop temporary table if exists valorActual;
+drop temporary table if exists fechaAnterior;
+drop temporary table if exists fechaActual;
+drop temporary table if exists valorAnterior;
+
+
+
 
 
