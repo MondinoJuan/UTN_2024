@@ -1,0 +1,15 @@
+Selección (sigma): σ_{predicado}(R) 
+
+Proyección (pi): π_{atrib1, atrib2, ...}(R) 
+
+Producto cartesiano: R1 × R2
+
+Unión: R1 ∪ R2 
+
+Diferencia: R1 − R2 
+
+Intersección: R1 ∩ R2 
+
+Natural Join: R1 ⋈ R2 
+
+Join / Theta-Join (condición θ): R1 ⋈_{θ} R2

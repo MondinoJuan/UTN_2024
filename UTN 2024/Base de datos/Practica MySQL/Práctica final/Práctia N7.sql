@@ -80,30 +80,86 @@ drop view if exists vw_valorActual;
 use afatse;
 drop view if exists alumnosInscripciones;
 CREATE VIEW alumnosInscripciones AS
-select concat(a.nombre, ' ', a.apellido) as nombreCompleto, i.nom_plan, i.nro_curso, a.dni from alumnos a
-inner join inscripciones i on a.dni = i.dni
+    SELECT 
+        CONCAT(a.nombre, ' ', a.apellido) AS nombreCompleto,
+        i.nom_plan,
+        i.nro_curso,
+        a.dni
+    FROM
+        alumnos a
+            INNER JOIN
+        inscripciones i ON a.dni = i.dni
 ;
 
 drop view if exists cuotasImpagas;
 CREATE VIEW cuotasImpagas AS
-select c.dni/*, c.nom_plan, c.nro_curso*/, count(*) as cantImp from cuotas c
-where c.fecha_pago is null
-group by c.dni#, c.nom_plan, c.nro_curso 
+    SELECT 
+        c.dni, COUNT(*) AS cantImp
+    FROM
+        cuotas c
+    WHERE
+        c.fecha_pago IS NULL
+    GROUP BY c.dni
 ;
 
 drop view if exists promediosAlumno;
 CREATE VIEW promediosAlumno AS
-select e.dni, e.nom_plan, e.nro_curso, avg(e.nota) as promNota from evaluaciones e
-inner join inscripciones i on i.dni = e.dni and i.nom_plan = e.nom_plan and i.nro_curso = e.nro_curso
-group by e.dni, e.nom_plan, e.nro_curso
+    SELECT 
+        e.dni, e.nom_plan, e.nro_curso, AVG(e.nota) AS promNota
+    FROM
+        evaluaciones e
+            INNER JOIN
+        inscripciones i ON i.dni = e.dni
+            AND i.nom_plan = e.nom_plan
+            AND i.nro_curso = e.nro_curso
+    GROUP BY e.dni , e.nom_plan , e.nro_curso
 ;
 
-select ai.nombreCompleto, ai.nom_plan, ai.nro_curso, pa.promNota, ci.cantImp from alumnosInscripciones ai
-inner join promediosAlumno pa on ai.dni = pa.dni and ai.nom_plan = pa.nom_plan and ai.nro_curso = pa.nro_curso
-left join cuotasImpagas ci on ai.dni = ci.dni# and ai.nom_plan = ci.nom_plan and ai.nro_curso = ci.nro_curso
+SELECT 
+    ai.nombreCompleto,
+    ai.nom_plan,
+    ai.nro_curso,
+    pa.promNota,
+    ci.cantImp
+FROM
+    alumnosInscripciones ai
+        INNER JOIN
+    promediosAlumno pa ON ai.dni = pa.dni
+        AND ai.nom_plan = pa.nom_plan
+        AND ai.nro_curso = pa.nro_curso
+        LEFT JOIN
+    cuotasImpagas ci ON ai.dni = ci.dni
+ORDER BY pa.promNota
 ;
 
 drop view if exists alumnosInscripciones;
 drop view if exists cuotasImpagas;
 drop view if exists promediosAlumno;
 
+# Ejercicio 5
+use afatse;
+
+drop view if exists vw_utiles;
+create view vw_utiles as
+select cod_material, desc_material, cant_disponible, punto_pedido, cantidad_a_pedir from materiales
+where cod_material like '%UT%'
+;
+
+drop view if exists vw_apuntes;
+create view vw_apuntes as
+select cod_material, desc_material, url_descarga, autores, tamanio, fecha_creacion from materiales
+where cod_material like '%AP%'
+;
+
+select pm.cuit, p.razon_social, p.direccion, p.telefono, pm.cod_material, vwu.desc_material, vwu.cant_disponible, 
+vwu.punto_pedido, vwu.cantidad_a_pedir from proveedores_materiales pm
+inner join proveedores p on pm.cuit = p.cuit
+inner join vw_utiles vwu on pm.cod_material = vwu.cod_material
+order by pm.cuit
+;
+
+select c.nom_plan, c.nro_curso, c.fecha_ini, c.fecha_fin, c.salon, c.cupo, vwa.* from cursos c
+inner join materiales_plan mp on c.nom_plan = mp.nom_plan
+inner join vw_apuntes vwa on mp.cod_material = vwa.cod_material
+where year(c.fecha_ini) = 2015 or year(c.fecha_fin) = 2015
+;
