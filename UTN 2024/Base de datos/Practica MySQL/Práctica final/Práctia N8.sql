@@ -273,12 +273,57 @@ rollback;
 
 # Ejercicio 10
 use afatse;
+start transaction;
 
-# Ejercicio 11
-use afatse;
+DELETE FROM inscripciones 
+WHERE
+    nom_plan = 'Marketing 3'
+    AND nro_curso = 1;
 
-# Ejercicio 12
+rollback;
+
+# Ejercicio 11 y 12
 use afatse;
+start transaction;
+
+SELECT 
+    cuil
+INTO @cuilEY FROM
+    instructores
+WHERE
+    nombre LIKE '%Elias%'
+        AND apellido LIKE '%Yanes%';
+
+DELETE FROM instructores 
+WHERE
+    cuil_supervisor = @cuilEY
+;
+
+rollback;
 
 # Ejercicio 13
 use afatse;
+start transaction;
+
+drop temporary table if exists apuntesEdF;
+create temporary table if not exists apuntesEdF as
+select cod_material from materiales
+where cod_material like 'AP-%' and autores like '%Erica de Forifregoro%'
+;
+
+DELETE FROM materiales_plan 
+WHERE
+    cod_material IN (SELECT 
+        cod_material
+    FROM
+        apuntesEdF);
+
+DELETE FROM materiales 
+WHERE
+    cod_material IN (SELECT 
+        cod_material
+    FROM
+        apuntesEdF)
+;
+
+rollback;
