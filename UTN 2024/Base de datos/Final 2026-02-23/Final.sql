@@ -13,16 +13,15 @@ use recursos_humanos;
 
 drop temporary table if exists pros_selec_No2017;
 create temporary table pros_selec_No2017 as
-select ps.cod_puesto from proceso_seleccion ps
+select ps.cod_puesto, ps.cod_area, ps.fecha_solic from proceso_seleccion ps
 where year(ps.fecha_hora) < 2017  
 ;
 
 select a.denominacion, pdt.descripcion, sp.fecha_solic from solicitudes_puestos sp
 inner join areas a on sp.cod_area = a.cod_area
 inner join puestos_de_trabajo pdt on sp.cod_puesto = pdt.cod_puesto
-where sp.fecha_canc is null and sp.cod_puesto not in (select * from pros_selec_No2017)
+where sp.fecha_canc is null and (sp.cod_puesto, sp.cod_area, sp.fecha_solic) not in (select * from pros_selec_No2017)
 ;
-
 
 -- 2
 use recursos_humanos;
@@ -55,8 +54,8 @@ begin
         where descripcion like puestoIng;
 	
 		select s.valor_hora into salarioFecha from salario s
-		where s.cod_puesto = codPDTRecibida and s.cod_area = codAreaRecibida 
-			and year(fechaIng) >= year(s.fecha) and month(fechaIng) >= month(s.fecha) and day(fechaIng) >= day(s.fecha)
+		where s.cod_puesto = codPDTRecibida and s.cod_area = codAreaRecibida
+            and s.fecha <= fechaIng
 		order by fecha asc
         limit 1
 		;        
@@ -73,7 +72,7 @@ begin
 			and s.fecha < fechaIng
             ;
     
-    set porcentajeAumento = ((salarioFecha) / salarioActual) * 100;
+    set porcentajeAumento = ((salarioActual - salarioFecha) / salarioFecha) * 100;
 end $$
 DELIMITER ;
 
