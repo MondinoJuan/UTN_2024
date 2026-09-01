@@ -82,7 +82,7 @@ alter table cursos
     ;
     
 drop temporary table if exists insc_curso;
-create temporary table insc_curso
+create temporary table insc_curso as
 select c.`nom_plan`, c.`nro_curso`, count(i.`nro_curso`) cant from cursos c 
 left join `inscripciones` i on c.`nom_plan`=i.`nom_plan` and c.`nro_curso`=i.`nro_curso`
 group by c.`nom_plan`, c.`nro_curso`;
